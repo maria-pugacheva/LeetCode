@@ -55,7 +55,7 @@ def solution_two(nums: List[int], t: int) -> List[int]:
         -10^9 <= t <= 10^9
 
     Examples:
-        >>> solution_two([3, 2], 6)
+        >>> solution_two([3, 2], 5)
         [0, 1]
         >>> solution_two([3, 2, 4], 6)
         [1, 2]
