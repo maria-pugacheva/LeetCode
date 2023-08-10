@@ -14,3 +14,4 @@ LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|
