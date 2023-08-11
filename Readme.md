@@ -23,3 +23,4 @@ LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
+|2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
