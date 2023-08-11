@@ -17,6 +17,8 @@ def solution_one(s: str) -> str:
         'hello'
         >>> solution_one('LOVELY')
         'lovely'
+        >>> solution_one('Hello@[]')
+        'hello@[]'
     """
     lower = list(s)
     for i in range(len(lower)):
