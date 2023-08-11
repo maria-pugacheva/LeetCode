@@ -23,5 +23,6 @@ LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
+|1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
