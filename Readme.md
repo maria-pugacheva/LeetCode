@@ -17,4 +17,5 @@ LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
