@@ -27,6 +27,7 @@ LeetCode
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](src/python/_01_easy/_1957_delete-characters-to-make-fancy-string.py)|Easy|1|
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](src/python/_01_easy/_1984_minimum-difference-between-highest-and-lowest-of-k-scores.py)|Easy|1|
+|2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](src/python/_01_easy/_2027_minimum-moves-to-convert-string.py)|Easy|1|
 |2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](src/python/_01_easy/_2053_kth-distinct-string-in-an-array.py)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
