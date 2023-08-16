@@ -24,6 +24,7 @@ LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
+|1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Python](src/python/_01_easy/_1903_largest-odd-number-in-string.py)|Easy|2|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python](src/python/_01_easy/_1913_maximum-product-difference-between-two-pairs.py)|Easy|1|
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
