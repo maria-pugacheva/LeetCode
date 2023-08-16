@@ -24,6 +24,7 @@ LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](src/python/_01_easy/_1480_running-sum-of-1d-array.py)|Easy|2|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](src/python/_01_easy/_1796_second-largest-digit-in-a-string.py)|Easy|1|
 |1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
