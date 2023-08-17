@@ -25,6 +25,7 @@ LeetCode
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](src/python/_01_easy/_1480_running-sum-of-1d-array.py)|Easy|2|
+|1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](src/python/_01_easy/_1491_average-salary-excluding-the-minimum-and-maximum-salary.py)|Easy|2|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](src/python/_01_easy/_1523_count-odd-numbers-in-an-interval-range.py)|Easy|1|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](src/python/_01_easy/_1796_second-largest-digit-in-a-string.py)|Easy|1|
