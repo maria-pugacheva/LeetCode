@@ -29,6 +29,7 @@ LeetCode
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](src/python/_01_easy/_1491_average-salary-excluding-the-minimum-and-maximum-salary.py)|Easy|2|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](src/python/_01_easy/_1523_count-odd-numbers-in-an-interval-range.py)|Easy|1|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
+|1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](src/python/_01_easy/_1624_largest-substring-between-two-equal-characters.py)|Easy|1|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](src/python/_01_easy/_1672_richest-customer-wealth.py)|Easy|1|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](src/python/_01_easy/_1732_find-the-highest-altitude.py)|Easy|1|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
