@@ -16,6 +16,7 @@ LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Python](src/python/_01_easy/_389_find-the-difference.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
