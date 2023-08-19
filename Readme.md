@@ -40,6 +40,7 @@ LeetCode
 |1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Python](src/python/_01_easy/_1903_largest-odd-number-in-string.py)|Easy|2|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python](src/python/_01_easy/_1913_maximum-product-difference-between-two-pairs.py)|Easy|1|
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Python](src/python/_01_easy/_1929_concatenation-of-array.py)|Easy|1|
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
 |1941|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)|[Python](src/python/_01_easy/_1941_check-if-all-characters-have-equal-number-of-occurrences.py)|Easy|1|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](src/python/_01_easy/_1957_delete-characters-to-make-fancy-string.py)|Easy|1|
