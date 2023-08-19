@@ -47,6 +47,7 @@ LeetCode
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](src/python/_01_easy/_2000_reverse-prefix-of-word.py)|Easy|1|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](src/python/_01_easy/_2027_minimum-moves-to-convert-string.py)|Easy|1|
+|2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python](src/python/_01_easy/_2037_minimum-number-of-moves-to-seat-everyone.py)|Easy|1|
 |2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](src/python/_01_easy/_2053_kth-distinct-string-in-an-array.py)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
