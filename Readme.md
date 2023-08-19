@@ -35,6 +35,7 @@ LeetCode
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](src/python/_01_easy/_1768_merge-strings-alternately.py)|Easy|1|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](src/python/_01_easy/_1796_second-largest-digit-in-a-string.py)|Easy|1|
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Python](src/python/_01_easy/_1812_determine-color-of-a-chessboard-square.py)|Easy|1|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](src/python/_01_easy/_1816_truncate-sentence.py)|Easy|1|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](src/python/_01_easy/_1822_sign-of-the-product-of-an-array.py)|Easy|1|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](src/python/_01_easy/_1832_check-if-the-sentence-is-pangram.py)|Easy|2|
