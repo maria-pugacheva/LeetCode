@@ -31,6 +31,7 @@ LeetCode
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](src/python/_01_easy/_1624_largest-substring-between-two-equal-characters.py)|Easy|1|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](src/python/_01_easy/_1672_richest-customer-wealth.py)|Easy|1|
+|1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](src/python/_01_easy/_1688_count-of-matches-in-tournament.py)|Easy|1|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](src/python/_01_easy/_1732_find-the-highest-altitude.py)|Easy|1|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](src/python/_01_easy/_1768_merge-strings-alternately.py)|Easy|1|
