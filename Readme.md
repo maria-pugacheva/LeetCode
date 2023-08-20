@@ -45,6 +45,7 @@ LeetCode
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](src/python/_01_easy/_1816_truncate-sentence.py)|Easy|1|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](src/python/_01_easy/_1822_sign-of-the-product-of-an-array.py)|Easy|1|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](src/python/_01_easy/_1832_check-if-the-sentence-is-pangram.py)|Easy|2|
+|1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)|[Python](src/python/_01_easy/_1844_replace-all-digits-with-characters.py)|Easy|1|
 |1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)|[Python](src/python/_01_easy/_1880_check-if-word-equals-summation-of-two-words.py)|Easy|1|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Python](src/python/_01_easy/_1903_largest-odd-number-in-string.py)|Easy|2|
