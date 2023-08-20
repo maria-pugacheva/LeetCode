@@ -47,6 +47,7 @@ LeetCode
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](src/python/_01_easy/_1832_check-if-the-sentence-is-pangram.py)|Easy|2|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)|[Python](src/python/_01_easy/_1844_replace-all-digits-with-characters.py)|Easy|1|
 |1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
+|1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/)|[Python](src/python/_01_easy/_1869_longer-contiguous-segments-of-ones-than-zeros.py)|Easy|1|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)|[Python](src/python/_01_easy/_1880_check-if-word-equals-summation-of-two-words.py)|Easy|1|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Python](src/python/_01_easy/_1903_largest-odd-number-in-string.py)|Easy|2|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python](src/python/_01_easy/_1913_maximum-product-difference-between-two-pairs.py)|Easy|1|
