@@ -18,6 +18,7 @@ LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|
