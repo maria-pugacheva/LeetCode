@@ -56,6 +56,7 @@ LeetCode
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
 |1941|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)|[Python](src/python/_01_easy/_1941_check-if-all-characters-have-equal-number-of-occurrences.py)|Easy|1|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](src/python/_01_easy/_1957_delete-characters-to-make-fancy-string.py)|Easy|1|
+|1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|[Python](src/python/_01_easy/_1979_find-greatest-common-divisor-of-array.py)|Easy|2|
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](src/python/_01_easy/_1984_minimum-difference-between-highest-and-lowest-of-k-scores.py)|Easy|1|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](src/python/_01_easy/_2000_reverse-prefix-of-word.py)|Easy|1|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
