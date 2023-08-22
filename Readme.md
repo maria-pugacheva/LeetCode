@@ -18,6 +18,7 @@ LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/description/)|[Python](src/python/_01_easy/_561_array-partition-I.py)|Easy|1|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|[Python](src/python/_01_easy/_575_distribute-candies.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
