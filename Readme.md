@@ -22,6 +22,7 @@ LeetCode
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Python](src/python/_01_easy/_744_find-smallest-letter-greater-than-target.py)|Easy|1|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|
