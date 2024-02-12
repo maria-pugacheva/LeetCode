@@ -80,3 +80,4 @@ LeetCode
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
+|3019|[Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)|[Python](src/python/_01_easy/_3019_number-of-changing-keys.py)|Easy|1|
