@@ -5,7 +5,12 @@ import doctest
 # Approach 1: Count. Time: O(n)                                     ***
 # ---------------------------------------------------------------------
 def solution_one(s: str) -> int:
-    """Return the longest palindromic substring in s.
+    """Return the number of times the user had to change the key
+    to type string s.
+
+    Preconditions:
+        Modifiers like Shift or Caps Lock won't be counted
+        1 <= len(s) <= 100
 
     Examples:
         >>> solution_one('AaaAa')
