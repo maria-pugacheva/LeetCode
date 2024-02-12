@@ -81,3 +81,4 @@ LeetCode
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |3019|[Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)|[Python](src/python/_01_easy/_3019_number-of-changing-keys.py)|Easy|1|
+|3028|[Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/description/)|[Python](src/python/_01_easy/_3028_ant-on-the-boundary.py)|Easy|1|
