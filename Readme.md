@@ -80,6 +80,7 @@ LeetCode
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
+|2960|[Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/description/)|[Python](src/python/_01_easy/_2960_count-tested-devices-after-test-operations.py)|Easy|1|
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)|[Python](src/python/_01_easy/_2965_find-missing-and-repeated-values.py)|Easy|1|
 |2974|[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)|[Python](src/python/_01_easy/_2974_minimum-number-game.py)|Easy|1|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)|[Python](src/python/_01_easy/_3005_count-elements-with-maximum-frequency.py)|Easy|1|
