@@ -80,6 +80,7 @@ LeetCode
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
+|2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/)|[Python](src/python/_01_easy/_2951_find-the-peaks.py)|Easy|1|
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)|[Python](src/python/_01_easy/_2956_find-common-elements-between-two-arrays.py)|Easy|1|
