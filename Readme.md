@@ -81,6 +81,7 @@ LeetCode
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
+|2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/)|[Python](src/python/_01_easy/_2951_find-the-peaks.py)|Easy|1|
