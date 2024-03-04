@@ -84,6 +84,7 @@ LeetCode
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)|[Python](src/python/_01_easy/_2678_number-of-senior-citizens.py)|Easy|1|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[Python](src/python/_01_easy/_2696_minimum-string-length-after-removing-substrings.py)|Easy|1|
 |2697|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)|[Python](src/python/_01_easy/_2697_lexicographically-smallest-palindrome.py)|Easy|1|
+|2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)|[Python](src/python/_01_easy/_2706_buy-two-chocolates.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
