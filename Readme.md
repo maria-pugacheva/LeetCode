@@ -86,6 +86,7 @@ LeetCode
 |2697|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)|[Python](src/python/_01_easy/_2697_lexicographically-smallest-palindrome.py)|Easy|1|
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)|[Python](src/python/_01_easy/_2706_buy-two-chocolates.py)|Easy|1|
 |2710|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/)|[Python](src/python/_01_easy/_2710_remove-trailing-zeros-from-a-string.py)|Easy|1|
+|2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)|[Python](src/python/_01_easy/_2716_minimize-string-length.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
