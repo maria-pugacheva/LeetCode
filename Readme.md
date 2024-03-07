@@ -102,4 +102,5 @@ LeetCode
 |3010|[Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)|[Python](src/python/_01_easy/_3010_divide-an-array-into-subarrays-with-minimum-cost-I.py)|Easy|1|
 |3019|[Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)|[Python](src/python/_01_easy/_3019_number-of-changing-keys.py)|Easy|1|
 |3028|[Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/description/)|[Python](src/python/_01_easy/_3028_ant-on-the-boundary.py)|Easy|1|
+|3065|[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)|[Python](src/python/_01_easy/_3065_minimum-operations-to-exceed-threshold-value-I.py)|Easy|1|
 |3069|[Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/)|[Python](src/python/_01_easy/_3069_distribute-elements-into-two-arrays-I.py)|Easy|1|
