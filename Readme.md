@@ -83,6 +83,7 @@ LeetCode
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
+|2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)|[Python](src/python/_01_easy/_2678_number-of-senior-citizens.py)|Easy|1|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[Python](src/python/_01_easy/_2696_minimum-string-length-after-removing-substrings.py)|Easy|1|
 |2697|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)|[Python](src/python/_01_easy/_2697_lexicographically-smallest-palindrome.py)|Easy|1|
