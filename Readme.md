@@ -43,6 +43,7 @@ LeetCode
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)|[Python](src/python/_01_easy/_1299_replace-elements-with-greatest-element-on-right-side.py)|Easy|1|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](src/python/_01_easy/_1304_find-n-unique-integers-sum-up-to-zero.py)|Easy|1|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)|[Python](src/python/_01_easy/_1309_decrypt-string-from-alphabet-to-integer-mapping.py)|Easy|1|
+|1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)|[Python](src/python/_01_easy/_1370_increasing-decreasing-string.py)|Easy|1|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](src/python/_01_easy/_1464_maximum-product-of-two-elements-in-an-array.py)|Easy|2|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](src/python/_01_easy/_1480_running-sum-of-1d-array.py)|Easy|2|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](src/python/_01_easy/_1491_average-salary-excluding-the-minimum-and-maximum-salary.py)|Easy|2|
