@@ -88,6 +88,7 @@ LeetCode
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
+|2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)|[Python](src/python/_01_easy/_2678_number-of-senior-citizens.py)|Easy|1|
