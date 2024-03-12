@@ -86,6 +86,7 @@ LeetCode
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)|[Python](src/python/_01_easy/_2103_rings-and-rods.py)|Easy|1|
 |2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)|[Python](src/python/_01_easy/_2114_maximum-number-of-words-found-in-sentences.py)|Easy|1|
+|2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)|[Python](src/python/_01_easy/_2160_minimum-sum-of-four-digit-number-after-splitting-digits.py)|Easy|1|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
