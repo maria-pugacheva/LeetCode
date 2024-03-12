@@ -100,6 +100,7 @@ LeetCode
 |2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)|[Python](src/python/_01_easy/_2716_minimize-string-length.py)|Easy|1|
 |2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[Python](src/python/_01_easy/_2744_find-maximum-number-of-string-pairs.py)|Easy|1|
 |2778|[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)|[Python](src/python/_01_easy/_2778_sum-of-squares-of-special-elements.py)|Easy|1|
+|2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)|[Python](src/python/_01_easy/_2824_count-pairs-whose-sum-is-less-than-target.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
