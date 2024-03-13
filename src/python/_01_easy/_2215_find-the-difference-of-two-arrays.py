@@ -24,7 +24,7 @@ def solution_one(nums1: List[int], nums2: List[int]) -> List[List[int]]:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Set II. Time: O(n)                                    ***
+# Approach 2: Set II. Time: O(n) - WON'T WORK                       ***
 # ---------------------------------------------------------------------
 def solution_two(nums1: List[int], nums2: List[int]) -> List[List[int]]:
     """Return a list of size 2 where:
