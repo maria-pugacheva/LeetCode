@@ -97,6 +97,7 @@ LeetCode
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2553|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|[Python](src/python/_01_easy/_2553_separate-the-digits-in-an-array.py)|Easy|1|
+|2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
 |2656|[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)|[Python](src/python/_01_easy/_2656_maximum-sum-with-exactly-k-elements.py)|Easy|1|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)|[Python](src/python/_01_easy/_2678_number-of-senior-citizens.py)|Easy|1|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[Python](src/python/_01_easy/_2696_minimum-string-length-after-removing-substrings.py)|Easy|1|
