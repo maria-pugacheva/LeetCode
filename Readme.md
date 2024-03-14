@@ -77,6 +77,7 @@ LeetCode
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](src/python/_01_easy/_2000_reverse-prefix-of-word.py)|Easy|1|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](src/python/_01_easy/_2027_minimum-moves-to-convert-string.py)|Easy|1|
+|2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three)|[Python](src/python/_01_easy/_2032_two-out-of-three.py)|Easy|2+|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python](src/python/_01_easy/_2037_minimum-number-of-moves-to-seat-everyone.py)|Easy|1|
 |2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)|[Python](src/python/_02_medium/_2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.py)|Medium|1|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/)|[Python](src/python/_01_easy/_2042_check-if-numbers-are-ascending-in-a-sentence.py)|Easy|1|
