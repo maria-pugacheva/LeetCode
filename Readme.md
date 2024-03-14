@@ -92,6 +92,7 @@ LeetCode
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Python](src/python/_01_easy/_2315_count-asterisks.py)|Easy|1|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/description/)|[Python](src/python/_01_easy/_2325_decode-the-message.py)|Easy|1|
+|2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](src/python/_01_easy/_2341_maximum-number-of-pairs-in-array.py)|Easy|1|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
