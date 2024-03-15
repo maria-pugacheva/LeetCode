@@ -111,6 +111,7 @@ LeetCode
 |2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)|[Python](src/python/_01_easy/_2716_minimize-string-length.py)|Easy|1|
 |2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[Python](src/python/_01_easy/_2744_find-maximum-number-of-string-pairs.py)|Easy|1|
 |2778|[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)|[Python](src/python/_01_easy/_2778_sum-of-squares-of-special-elements.py)|Easy|1|
+|2788|[Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/)|[Python](src/python/_01_easy/_2788_split-strings-by-separator.py)|Easy|1|
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)|[Python](src/python/_01_easy/_2824_count-pairs-whose-sum-is-less-than-target.py)|Easy|1|
 |2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)|[Python](src/python/_01_easy/_2828_check-if-a-string-is-an-acronym-of-words.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
