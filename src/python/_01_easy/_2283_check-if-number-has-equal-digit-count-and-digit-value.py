@@ -30,7 +30,7 @@ def solution_one(num: str) -> bool:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Autobiographical Numbers. Time: O(n)                  ^**
+# Approach 2: Autobiographical Numbers. Time: O(1)                  ^**
 # ---------------------------------------------------------------------
 def solution_two(num: str) -> bool:
     """Return True if for every index i in the range 0 <= i < n, the
