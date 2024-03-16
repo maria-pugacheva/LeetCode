@@ -104,6 +104,7 @@ LeetCode
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2553|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|[Python](src/python/_01_easy/_2553_separate-the-digits-in-an-array.py)|Easy|1|
+|2595|[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[Python](src/python/_01_easy/_2595_number-of-even-and-odd-bits.py)|Easy|1|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
 |2656|[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)|[Python](src/python/_01_easy/_2656_maximum-sum-with-exactly-k-elements.py)|Easy|1|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)|[Python](src/python/_01_easy/_2678_number-of-senior-citizens.py)|Easy|1|
