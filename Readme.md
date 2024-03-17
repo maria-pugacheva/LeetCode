@@ -133,6 +133,7 @@ LeetCode
 |2960|[Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/description/)|[Python](src/python/_01_easy/_2960_count-tested-devices-after-test-operations.py)|Easy|1|
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)|[Python](src/python/_01_easy/_2965_find-missing-and-repeated-values.py)|Easy|1|
 |2974|[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)|[Python](src/python/_01_easy/_2974_minimum-number-game.py)|Easy|1|
+|2980|[Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/)|[Python](src/python/_01_easy/_2980_check-if-bitwise-or-has-trailing-zeros.py)|Easy|1|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)|[Python](src/python/_01_easy/_3005_count-elements-with-maximum-frequency.py)|Easy|1|
 |3010|[Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)|[Python](src/python/_01_easy/_3010_divide-an-array-into-subarrays-with-minimum-cost-I.py)|Easy|1|
 |3019|[Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)|[Python](src/python/_01_easy/_3019_number-of-changing-keys.py)|Easy|1|
