@@ -97,6 +97,7 @@ LeetCode
 |2255|[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[Python](src/python/_01_easy/_2255_count-prefixes-of-a-given-string.py)|Easy|1|
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](src/python/_01_easy/_2283_check-if-number-has-equal-digit-count-and-digit-value.py)|Easy|1|
+|2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](src/python/_01_easy/_2309_greatest-english-letter-in-upper-and-lower-case.py)|Easy|1|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Python](src/python/_01_easy/_2315_count-asterisks.py)|Easy|1|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/description/)|[Python](src/python/_01_easy/_2325_decode-the-message.py)|Easy|1|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](src/python/_01_easy/_2341_maximum-number-of-pairs-in-array.py)|Easy|1|
