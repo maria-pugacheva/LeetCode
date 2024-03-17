@@ -90,6 +90,7 @@ LeetCode
 |2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)|[Python](src/python/_01_easy/_2114_maximum-number-of-words-found-in-sentences.py)|Easy|1|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)|[Python](src/python/_01_easy/_2160_minimum-sum-of-four-digit-number-after-splitting-digits.py)|Easy|1|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
+|2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[Python](src/python/_01_easy/_2206_divide-array-into-equal-pairs.py)|Easy|3|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)|[Python](src/python/_01_easy/_2215_find-the-difference-of-two-arrays.py)|Easy|1|
 |2255|[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[Python](src/python/_01_easy/_2255_count-prefixes-of-a-given-string.py)|Easy|1|
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
