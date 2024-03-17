@@ -11,6 +11,9 @@ def solution_one(nums: List[int]) -> bool:
     to exactly one pair and the elements present in a pair are equal.
     Otherwise, return False.
 
+    Note: Could also use XOR after sorting (won't work w/o sorting).
+          Consider this example: 20^17^6^12^11^4 = 0
+
     Examples:
         >>> solution_one([3, 2, 3, 2, 2, 2])
         True
