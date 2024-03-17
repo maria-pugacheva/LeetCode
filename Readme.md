@@ -103,6 +103,7 @@ LeetCode
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
+|2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](src/python/_01_easy/_2496_maximum-value-of-a-string-in-an-array.py)|Easy|1|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2553|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|[Python](src/python/_01_easy/_2553_separate-the-digits-in-an-array.py)|Easy|1|
