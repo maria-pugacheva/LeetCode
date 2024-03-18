@@ -15,6 +15,7 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|1|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|1|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|1|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
