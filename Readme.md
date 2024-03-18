@@ -126,6 +126,7 @@ LeetCode
 |2710|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/)|[Python](src/python/_01_easy/_2710_remove-trailing-zeros-from-a-string.py)|Easy|1|
 |2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)|[Python](src/python/_01_easy/_2716_minimize-string-length.py)|Easy|1|
 |2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[Python](src/python/_01_easy/_2744_find-maximum-number-of-string-pairs.py)|Easy|1|
+|2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Python](src/python/_01_easy/_2769_find-the-maximum-achievable-number.py)|Easy|1|
 |2778|[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)|[Python](src/python/_01_easy/_2778_sum-of-squares-of-special-elements.py)|Easy|1|
 |2788|[Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/)|[Python](src/python/_01_easy/_2788_split-strings-by-separator.py)|Easy|1|
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)|[Python](src/python/_01_easy/_2824_count-pairs-whose-sum-is-less-than-target.py)|Easy|1|
