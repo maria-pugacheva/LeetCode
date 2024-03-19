@@ -89,6 +89,7 @@ LeetCode
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)|[Python](src/python/_01_easy/_2103_rings-and-rods.py)|Easy|1|
+|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python](src/python/_01_easy/_2108_find-first-palindromic-string-in-the-array.py)|Easy|1|
 |2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)|[Python](src/python/_01_easy/_2114_maximum-number-of-words-found-in-sentences.py)|Easy|1|
 |2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)|[Python](src/python/_01_easy/_2124_check-if-all-a's-аppears-before-all-b's.py)|Easy|2|
 |2138|[Divide a String Into Groups of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)|[Python](src/python/_01_easy/_2138_divide-a-string-into-groups-of-size-k.py)|Easy|1|
