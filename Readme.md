@@ -119,6 +119,7 @@ LeetCode
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
 |2553|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)|[Python](src/python/_01_easy/_2553_separate-the-digits-in-an-array.py)|Easy|1|
 |2562|[Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)|[Python](src/python/_01_easy/_2562_find-the-array-concatenation-value.py)|Easy|1|
+|2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)|[Python](src/python/_01_easy/_2570_merge-two-2d-arrays-by-summing-values.py)|Easy|2|
 |2586|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[Python](src/python/_01_easy/_2586_count-the-number-of-vowel-strings-in-range.py)|Easy|1|
 |2595|[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[Python](src/python/_01_easy/_2595_number-of-even-and-odd-bits.py)|Easy|1|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
