@@ -110,6 +110,7 @@ LeetCode
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](src/python/_01_easy/_2351_first-letter-to-appear-twice.py)|Easy|1|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](src/python/_01_easy/_2357_make-array-zero-by-subtracting-equal-amounts.py)|Easy|1|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
+|2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](src/python/_01_easy/_2399_check-distances-between-same-letters.py)|Easy|1|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](src/python/_01_easy/_2441_largest-positive-integer-that-exists-with-its-negative.py)|Easy|2|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
