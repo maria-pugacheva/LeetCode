@@ -38,6 +38,7 @@ LeetCode
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](src/python/_01_easy/_908_smallest-range-I.py)|Easy|1|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](src/python/_01_easy/_1025_divisor-game.py)|Easy|1|
