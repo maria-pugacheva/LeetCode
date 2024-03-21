@@ -103,6 +103,7 @@ LeetCode
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)|[Python](src/python/_01_easy/_2215_find-the-difference-of-two-arrays.py)|Easy|1|
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)|[Python](src/python/_01_easy/_2248_ intersection-of-multiple-arrays.py)|Easy|1|
 |2255|[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[Python](src/python/_01_easy/_2255_count-prefixes-of-a-given-string.py)|Easy|1|
+|2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Python](src/python/_01_easy/_2264_largest-3-same-digit-number-in-string.py)|Easy|1|
 |2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)|[Python](src/python/_01_easy/_2278_percentage-of-letter-in-string.py)|Easy|1|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](src/python/_01_easy/_2283_check-if-number-has-equal-digit-count-and-digit-value.py)|Easy|1|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](src/python/_01_easy/_2309_greatest-english-letter-in-upper-and-lower-case.py)|Easy|1|
