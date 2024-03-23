@@ -127,6 +127,7 @@ LeetCode
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)|[Python](src/python/_01_easy/_2570_merge-two-2d-arrays-by-summing-values.py)|Easy|2|
 |2586|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[Python](src/python/_01_easy/_2586_count-the-number-of-vowel-strings-in-range.py)|Easy|1|
 |2595|[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[Python](src/python/_01_easy/_2595_number-of-even-and-odd-bits.py)|Easy|1|
+|2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](src/python/_01_easy/_2600_k-items-with-the-maximum-sum.py)|Easy|1|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
 |2656|[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)|[Python](src/python/_01_easy/_2656_maximum-sum-with-exactly-k-elements.py)|Easy|1|
 |2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[Python](src/python/_01_easy/_2667_create-hello-world-function.py)|Easy|1|
