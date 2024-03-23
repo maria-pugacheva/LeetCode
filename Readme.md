@@ -117,6 +117,7 @@ LeetCode
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](src/python/_01_easy/_2441_largest-positive-integer-that-exists-with-its-negative.py)|Easy|2|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
+|2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python](src/python/_01_easy/_2490_circular-sentence.py)|Easy|1|
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](src/python/_01_easy/_2496_maximum-value-of-a-string-in-an-array.py)|Easy|1|
 |2520|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)|[Python](src/python/_01_easy/_2520_count-the-digits-that-divide-a-number.py)|Easy|1|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
