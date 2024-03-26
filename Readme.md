@@ -98,6 +98,7 @@ LeetCode
 |2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)|[Python](src/python/_01_easy/_2124_check-if-all-a's-аppears-before-all-b's.py)|Easy|2|
 |2138|[Divide a String Into Groups of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)|[Python](src/python/_01_easy/_2138_divide-a-string-into-groups-of-size-k.py)|Easy|1|
 |2144|[Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)|[Python](src/python/_01_easy/_2144_minimum-cost-of-buying-candies-with-discount.py)|Easy|1|
+|2148|[Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)|[Python](src/python/_01_easy/_2148_count-elements-with-strictly-smaller-and-greater-elements.py)|Easy|3|
 |2154|[Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)|[Python](src/python/_01_easy/_2154_keep-multiplying-found-values-by-two.py)|Easy|2|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)|[Python](src/python/_01_easy/_2160_minimum-sum-of-four-digit-number-after-splitting-digits.py)|Easy|1|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
