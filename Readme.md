@@ -102,6 +102,7 @@ LeetCode
 |2154|[Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)|[Python](src/python/_01_easy/_2154_keep-multiplying-found-values-by-two.py)|Easy|2|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)|[Python](src/python/_01_easy/_2160_minimum-sum-of-four-digit-number-after-splitting-digits.py)|Easy|1|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
+|2190|[Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)|[Python](src/python/_01_easy/_2190_most-frequent-number-following-key-in-an-array.py)|Easy|1|
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[Python](src/python/_01_easy/_2206_divide-array-into-equal-pairs.py)|Easy|3|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)|[Python](src/python/_01_easy/_2215_find-the-difference-of-two-arrays.py)|Easy|1|
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)|[Python](src/python/_01_easy/_2248_ intersection-of-multiple-arrays.py)|Easy|1|
