@@ -118,6 +118,7 @@ LeetCode
 |2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](src/python/_01_easy/_2399_check-distances-between-same-letters.py)|Easy|1|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](src/python/_01_easy/_2441_largest-positive-integer-that-exists-with-its-negative.py)|Easy|2|
+|2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](src/python/_01_easy/_2455_average-value-of-even-numbers-that-are-divisible-by-three.py)|Easy|1|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python](src/python/_01_easy/_2490_circular-sentence.py)|Easy|1|
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](src/python/_01_easy/_2496_maximum-value-of-a-string-in-an-array.py)|Easy|1|
