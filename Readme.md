@@ -161,6 +161,7 @@ LeetCode
 |2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)|[Python](src/python/_01_easy/_2828_check-if-a-string-is-an-acronym-of-words.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
+|2937|[Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)|[Python](src/python/_01_easy/_2937_make-three-strings-equal.py)|Easy|1|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)|[Python](src/python/_01_easy/_2942_find-words-containing-character.py)|Easy|1|
 |2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/)|[Python](src/python/_01_easy/_2951_find-the-peaks.py)|Easy|1|
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)|[Python](src/python/_01_easy/_2956_find-common-elements-between-two-arrays.py)|Easy|1|
