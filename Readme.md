@@ -132,6 +132,7 @@ LeetCode
 |2481|[Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[Python](src/python/_01_easy/_2481_minimum-cuts-to-divide-a-circle.py)|Easy|1|
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python](src/python/_01_easy/_2490_circular-sentence.py)|Easy|1|
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](src/python/_01_easy/_2496_maximum-value-of-a-string-in-an-array.py)|Easy|1|
+|2515|[Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)|[Python](src/python/_01_easy/_2515_shortest-distance-to-target-string-in-a-circular-array.py)|Easy|1|
 |2520|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)|[Python](src/python/_01_easy/_2520_count-the-digits-that-divide-a-number.py)|Easy|1|
 |2535|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)|[Python](src/python/_01_easy/_2535_difference-between-element-sum-and-digit-sum-of-an-array.py)|Easy|1|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)|[Python](src/python/_01_easy/_2540_minimum-common-value.py)|Easy|1|
