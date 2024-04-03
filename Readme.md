@@ -51,6 +51,7 @@ LeetCode
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)|[Python](src/python/_01_easy/_1299_replace-elements-with-greatest-element-on-right-side.py)|Easy|1|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](src/python/_01_easy/_1304_find-n-unique-integers-sum-up-to-zero.py)|Easy|1|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)|[Python](src/python/_01_easy/_1309_decrypt-string-from-alphabet-to-integer-mapping.py)|Easy|1|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](src/python/_01_easy/_1331_rank-transform-of-an-array.py)|Easy|1|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)|[Python](src/python/_01_easy/_1370_increasing-decreasing-string.py)|Easy|1|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Python](src/python/_01_easy/_1422_maximum-score-after-splitting-a-string.py)|Easy|1|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](src/python/_01_easy/_1464_maximum-product-of-two-elements-in-an-array.py)|Easy|2|
