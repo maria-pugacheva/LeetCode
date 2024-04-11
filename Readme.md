@@ -149,6 +149,7 @@ LeetCode
 |2586|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[Python](src/python/_01_easy/_2586_count-the-number-of-vowel-strings-in-range.py)|Easy|1|
 |2595|[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[Python](src/python/_01_easy/_2595_number-of-even-and-odd-bits.py)|Easy|1|
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](src/python/_01_easy/_2600_k-items-with-the-maximum-sum.py)|Easy|1|
+|2605|[Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[Python](src/python/_01_easy/_2605_form-smallest-number-from-two-digit-arrays.py)|Easy|1|
 |2639|[Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|[Python](src/python/_01_easy/_2639_find_the_width_of_columns_of_a_grid.py)|Easy|1|
 |2643|[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)|[Python](src/python/_01_easy/_2643_row-with-maximum-ones.py)|Easy|1|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
