@@ -150,6 +150,7 @@ LeetCode
 |2595|[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[Python](src/python/_01_easy/_2595_number-of-even-and-odd-bits.py)|Easy|1|
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](src/python/_01_easy/_2600_k-items-with-the-maximum-sum.py)|Easy|1|
 |2639|[Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|[Python](src/python/_01_easy/_2639_find_the_width_of_columns_of_a_grid.py)|Easy|1|
+|2643|[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)|[Python](src/python/_01_easy/_2643_row-with-maximum-ones.py)|Easy|1|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)|[Python](src/python/_01_easy/_2651_calculate-delayed-arrival-time.py)|Easy|1|
 |2656|[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)|[Python](src/python/_01_easy/_2656_maximum-sum-with-exactly-k-elements.py)|Easy|1|
 |2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[Python](src/python/_01_easy/_2667_create-hello-world-function.py)|Easy|1|
