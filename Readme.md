@@ -191,3 +191,4 @@ LeetCode
 |3079|[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/)|[Python](src/python/_01_easy/_3079_find-the-sum-of-encrypted-integers.py)|Easy|1|
 |3083|[Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/)|[Python](src/python/_01_easy/_3083_existence-of-a-substring-in-a-string-and-its-reverse.py)|Easy|1|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Python](src/python/_01_easy/_3110_score-of-a-string.py)|Easy|1|
+|3114|[Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/)|[Python](src/python/_01_easy/_3114_latest-time-you-can-obtain-after-replacing-characters.py)|Easy|1|
