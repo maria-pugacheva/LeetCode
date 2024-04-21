@@ -132,6 +132,7 @@ LeetCode
 |2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](src/python/_01_easy/_2399_check-distances-between-same-letters.py)|Easy|1|
 |2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)|[Python](src/python/_01_easy/_2404_most-frequent-even-element.py)|Easy|1|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)|[Python](src/python/_01_easy/_2413_smallest-even-multiple.py)|Easy|1|
+|2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python](src/python/_01_easy/_2418_sort-the-people.py)|Easy|1|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](src/python/_01_easy/_2441_largest-positive-integer-that-exists-with-its-negative.py)|Easy|2|
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](src/python/_01_easy/_2455_average-value-of-even-numbers-that-are-divisible-by-three.py)|Easy|1|
 |2465|[Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[Python](src/python/_01_easy/_2465_number-of-distinct-averages.py)|Easy|1|
