@@ -129,6 +129,7 @@ LeetCode
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](src/python/_01_easy/_2341_maximum-number-of-pairs-in-array.py)|Easy|1|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](src/python/_01_easy/_2351_first-letter-to-appear-twice.py)|Easy|1|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](src/python/_01_easy/_2357_make-array-zero-by-subtracting-equal-amounts.py)|Easy|1|
+|2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Python](src/python/_01_easy/_2363_merge-similar-items.py)|Easy|1|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)|[Python](src/python/_01_easy/_2395_find-subarrays-with-equal-sum.py)|Easy|1|
 |2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](src/python/_01_easy/_2399_check-distances-between-same-letters.py)|Easy|1|
 |2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)|[Python](src/python/_01_easy/_2404_most-frequent-even-element.py)|Easy|1|
