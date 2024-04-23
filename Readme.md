@@ -175,6 +175,7 @@ LeetCode
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)|[Python](src/python/_01_easy/_2824_count-pairs-whose-sum-is-less-than-target.py)|Easy|1|
 |2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)|[Python](src/python/_01_easy/_2828_check-if-a-string-is-an-acronym-of-words.py)|Easy|1|
 |2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/)|[Python](src/python/_01_easy/_2833_furthest-point-from-origin.py)|Easy|1|
+|2848|[Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)|[Python](src/python/_01_easy/_2848_points-that-intersect-with-cars.py)|Easy|2|
 |2869|[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/)|[Python](src/python/_01_easy/_2869_minimum-operations-to-collect-elements.py)|Easy|1|
 |2923|[Find Champion I](https://leetcode.com/problems/find-champion-i/)|[Python](src/python/_01_easy/_2923_find-champion-I.py)|Easy|1|
 |2937|[Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)|[Python](src/python/_01_easy/_2937_make-three-strings-equal.py)|Easy|1|
