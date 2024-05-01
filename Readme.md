@@ -113,6 +113,7 @@ LeetCode
 |2148|[Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)|[Python](src/python/_01_easy/_2148_count-elements-with-strictly-smaller-and-greater-elements.py)|Easy|3|
 |2154|[Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)|[Python](src/python/_01_easy/_2154_keep-multiplying-found-values-by-two.py)|Easy|2|
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)|[Python](src/python/_01_easy/_2160_minimum-sum-of-four-digit-number-after-splitting-digits.py)|Easy|1|
+|2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](src/python/_01_easy/_2180_count-integers-with-even-digit-sum.py)|Easy|1|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[Python](src/python/_01_easy/_2185_counting-words-with-a-given-prefix.py)|Easy|1|
 |2190|[Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)|[Python](src/python/_01_easy/_2190_most-frequent-number-following-key-in-an-array.py)|Easy|1|
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[Python](src/python/_01_easy/_2206_divide-array-into-equal-pairs.py)|Easy|3|
