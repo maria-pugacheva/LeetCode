@@ -139,6 +139,7 @@ LeetCode
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python](src/python/_01_easy/_2418_sort-the-people.py)|Easy|1|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](src/python/_01_easy/_2441_largest-positive-integer-that-exists-with-its-negative.py)|Easy|2|
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](src/python/_01_easy/_2455_average-value-of-even-numbers-that-are-divisible-by-three.py)|Easy|1|
+|2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Python](src/python/_01_easy/_2460_apply-operations-to-an-array.py)|Easy|1|
 |2465|[Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[Python](src/python/_01_easy/_2465_number-of-distinct-averages.py)|Easy|1|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)|[Python](src/python/_01_easy/_2469_convert-the-temperature.py)|Easy|1|
 |2481|[Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[Python](src/python/_01_easy/_2481_minimum-cuts-to-divide-a-circle.py)|Easy|1|
