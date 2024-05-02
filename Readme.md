@@ -198,6 +198,7 @@ LeetCode
 |3046|[Split the Array](https://leetcode.com/problems/split-the-array/)|[Python](src/python/_01_easy/_3046_split-the-array.py)|Easy|2|
 |3065|[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)|[Python](src/python/_01_easy/_3065_minimum-operations-to-exceed-threshold-value-I.py)|Easy|1|
 |3069|[Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/)|[Python](src/python/_01_easy/_3069_distribute-elements-into-two-arrays-I.py)|Easy|1|
+|3074|[Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)|[Python](src/python/_01_easy/_3074_аpple-redistribution-into-boxes.py)|Easy|1|
 |3079|[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/)|[Python](src/python/_01_easy/_3079_find-the-sum-of-encrypted-integers.py)|Easy|1|
 |3083|[Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/)|[Python](src/python/_01_easy/_3083_existence-of-a-substring-in-a-string-and-its-reverse.py)|Easy|1|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Python](src/python/_01_easy/_3110_score-of-a-string.py)|Easy|1|
