@@ -32,6 +32,7 @@ LeetCode
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Python](src/python/_01_easy/_521_longest-uncommon-subsequence-I.py)|Easy|1|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/description/)|[Python](src/python/_01_easy/_561_array-partition-I.py)|Easy|1|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](src/python/_01_easy/_566_reshape-the-matrix.py)|Easy|1|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|[Python](src/python/_01_easy/_575_distribute-candies.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
