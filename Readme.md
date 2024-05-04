@@ -129,6 +129,7 @@ LeetCode
 |2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Python](src/python/_01_easy/_2303_calculate-amount-paid-in-taxes.py)|Easy|1|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](src/python/_01_easy/_2309_greatest-english-letter-in-upper-and-lower-case.py)|Easy|1|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Python](src/python/_01_easy/_2315_count-asterisks.py)|Easy|1|
+|2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Python](src/python/_01_easy/_2319_check-if-matrix-is-x-matrix.py)|Easy|1|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/description/)|[Python](src/python/_01_easy/_2325_decode-the-message.py)|Easy|1|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](src/python/_01_easy/_2341_maximum-number-of-pairs-in-array.py)|Easy|1|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](src/python/_01_easy/_2351_first-letter-to-appear-twice.py)|Easy|1|
