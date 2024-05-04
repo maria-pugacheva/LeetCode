@@ -126,6 +126,7 @@ LeetCode
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](src/python/_01_easy/_2283_check-if-number-has-equal-digit-count-and-digit-value.py)|Easy|1|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](src/python/_01_easy/_2287_rearrange-characters-to-make-target-string.py)|Easy|1|
 |2299|[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[Python](src/python/_01_easy/_2299_strong-password-checker-II.py)|Easy|1|
+|2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Python](src/python/_01_easy/_2303_calculate-amount-paid-in-taxes.py)|Easy|1|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](src/python/_01_easy/_2309_greatest-english-letter-in-upper-and-lower-case.py)|Easy|1|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Python](src/python/_01_easy/_2315_count-asterisks.py)|Easy|1|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/description/)|[Python](src/python/_01_easy/_2325_decode-the-message.py)|Easy|1|
