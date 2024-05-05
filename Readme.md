@@ -65,6 +65,7 @@ LeetCode
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/)|[Python](src/python/_01_easy/_1496_path-crossing.py)|Easy|1|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](src/python/_01_easy/_1523_count-odd-numbers-in-an-interval-range.py)|Easy|1|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
+|1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](src/python/_01_easy/_1582_special-positions-in-a-binary-matrix.py)|Easy|2|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](src/python/_01_easy/_1624_largest-substring-between-two-equal-characters.py)|Easy|1|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](src/python/_01_easy/_1662_check-if-two-string-arrays-are-equivalent.py)|Easy|1|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](src/python/_01_easy/_1672_richest-customer-wealth.py)|Easy|1|
