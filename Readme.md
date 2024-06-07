@@ -53,6 +53,7 @@ LeetCode
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](src/python/_01_easy/_1025_divisor-game.py)|Easy|1|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](src/python/_01_easy/_1221_split-a-string-in-balanced-strings.py)|Easy|1|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](src/python/_01_easy/_1295_find-numbers-with-even-number-of-digits.py)|Easy|3|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)|[Python](src/python/_01_easy/_1299_replace-elements-with-greatest-element-on-right-side.py)|Easy|1|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](src/python/_01_easy/_1304_find-n-unique-integers-sum-up-to-zero.py)|Easy|1|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)|[Python](src/python/_01_easy/_1309_decrypt-string-from-alphabet-to-integer-mapping.py)|Easy|1|
