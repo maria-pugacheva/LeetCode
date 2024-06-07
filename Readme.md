@@ -37,6 +37,7 @@ LeetCode
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](src/python/_01_easy/_724_find-pivot-index.py)|Easy|1|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Python](src/python/_01_easy/_744_find-smallest-letter-greater-than-target.py)|Easy|1|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](src/python/_01_easy/_766_toeplitz-matrix.py)|Easy|1|
