@@ -18,36 +18,36 @@ LeetCode
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|1|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|1|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|1|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Python](src/python/_02_medium/_343_integer-break.py)|Medium|1|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|
-|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|
-|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Python](src/python/_01_easy/_389_find-the-difference.py)|Easy|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|
-|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|1|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|1|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Python](src/python/_01_easy/_389_find-the-difference.py)|Easy|2|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|1|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|1|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](src/python/_01_easy/_495_teemo-attacking.py)|Easy|1|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Python](src/python/_01_easy/_521_longest-uncommon-subsequence-I.py)|Easy|1|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/description/)|[Python](src/python/_01_easy/_561_array-partition-I.py)|Easy|1|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](src/python/_01_easy/_566_reshape-the-matrix.py)|Easy|1|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|[Python](src/python/_01_easy/_575_distribute-candies.py)|Easy|1|
-|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|1|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](src/python/_01_easy/_724_find-pivot-index.py)|Easy|1|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Python](src/python/_01_easy/_744_find-smallest-letter-greater-than-target.py)|Easy|1|
-|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|1|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](src/python/_01_easy/_766_toeplitz-matrix.py)|Easy|1|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|
-|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|2|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|1|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](src/python/_01_easy/_824_goat-latin.py)|Easy|2|
-|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|
-|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|1|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|2|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](src/python/_01_easy/_908_smallest-range-I.py)|Easy|1|
-|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|1|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](src/python/_01_easy/_925_long-pressed-name.py)|Easy|1|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](src/python/_01_easy/_1002_find-common-characters.py)|Easy|1|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
