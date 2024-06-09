@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Two Pointers. Time: O(n)                              !**
+# Approach 1: Sorting. Time: O(n log n)                             !**
 # ---------------------------------------------------------------------
 def solution_one(nums1: List[int], m: int, nums2: List[int], n: int) \
         -> List[int]:
@@ -17,6 +17,30 @@ def solution_one(nums1: List[int], m: int, nums2: List[int], n: int) \
            >>> solution_one([0], 0, [1], 1)
            [1]
            >>> solution_one([2, 0], 1, [1], 1)
+           [1, 2]
+    """
+    for i in range(n):
+        nums1[m] = nums2[i]
+        m += 1
+    nums1.sort()
+    return nums1
+
+
+# ---------------------------------------------------------------------
+# Approach 2: Two Pointers. Time: O(n)                              !**
+# ---------------------------------------------------------------------
+def solution_two(nums1: List[int], m: int, nums2: List[int], n: int) \
+        -> List[int]:
+    """Merge nums1 and nums2 into a single array sorted in ASC order.
+
+       Examples:
+           >>> solution_two([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3)
+           [1, 2, 2, 3, 5, 6]
+           >>> solution_two([1], 1, [], 0)
+           [1]
+           >>> solution_two([0], 0, [1], 1)
+           [1]
+           >>> solution_two([2, 0], 1, [1], 1)
            [1, 2]
     """
     m -= 1
