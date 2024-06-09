@@ -18,7 +18,7 @@ def solution_one(nums1: List[int], m: int, nums2: List[int], n: int) \
            [1]
            >>> solution_one([2, 0], 1, [1], 1)
            [1, 2]
-       """
+    """
     m -= 1
     n -= 1
     i = len(nums1) - 1
