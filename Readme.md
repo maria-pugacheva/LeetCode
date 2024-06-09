@@ -12,7 +12,7 @@ LeetCode
 |09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](src/python/_01_easy/_09_palindrome-number.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](src/python/_02_medium/_11_container-with-most-water.py)|Medium|1|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](src/python/_01_easy/_26_remove-duplicates-from-sorted-array.py)|Easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|2|Y|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](src/python/_01_easy/_35_search-insert-position.py)|Easy|1|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|1|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|
