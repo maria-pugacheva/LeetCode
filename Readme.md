@@ -17,9 +17,10 @@ LeetCode
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|1|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|1|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|Y|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|2|Y|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|1|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
