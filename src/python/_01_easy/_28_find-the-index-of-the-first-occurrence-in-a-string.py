@@ -7,11 +7,6 @@ import doctest
 def solution_one(s: str, t: str) -> int:
     """Return the index of the 1st occurrence of t in s.
 
-    Preconditions:
-        len(haystack) > 0
-        haystack contains only lowercase English letters
-        needle contains only lowercase English letters
-
     Examples:
         >>> solution_one('k', 'k')
         0
