@@ -2,7 +2,7 @@ import doctest
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Brute Force. Time: O(n^3)                             ***
+# Approach 1: Brute Force. Time: O(n^3)                             ^**
 # ---------------------------------------------------------------------
 # Hint: Allocate all possible substrings first.
 # ---------------------------------------------------------------------
@@ -22,22 +22,21 @@ def solution_one(s: str) -> int:
            3
            >>> solution_one('bbbbb')
            1
-       """
-    def is_unique(start, end) -> bool:
-        seen = set()
-        for k in range(start, end + 1):
-            ch = s[k]
-            if ch in seen:
+    """
+    def is_unique(left: int, right: int) -> bool:
+        chars = set()
+        for k in range(left, right + 1):
+            if s[k] in chars:
                 return False
-            seen.add(ch)
+            else:
+                chars.add(s[k])
         return True
 
     longest = 0
     for i in range(len(s)):
         for j in range(len(s)):
-            length = j - i + 1
-            if is_unique(i, j) and longest < length:
-                longest = length
+            if is_unique(i, j):
+                longest = max(longest, j - i + 1)
     return longest
 
 
@@ -60,15 +59,14 @@ def solution_two(s: str) -> int:
            3
            >>> solution_two('bbbbb')
            1
-       """
-    longest = start = 0
+    """
+    longest = i = 0
     d = {}
-    for i in range(len(s)):
-        ch = s[i]
-        if ch in d:
-            start = max(start, d[ch] + 1)
-        longest = max(longest, i - start + 1)
-        d[ch] = i
+    for j in range(len(s)):
+        if s[j] in d:
+            i = max(i, d[s[j]] + 1)
+        longest = max(longest, j - i + 1)
+        d[s[j]] = j
     return longest
 
 
