@@ -25,7 +25,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](src/python/_01_easy/_121_best-time-to-buy-and-sell-stock.py)|Easy|1|Y|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](src/python/_01_easy/_125_valid-palindrome.py)|Easy|1|N|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|1|
-|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_01_easy/_167_two-sum-input-array-is-sorted.py)|Easy|2|Y|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_01_easy/_167_two-sum-input-array-is-sorted.py)|Medium|2|Y|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
