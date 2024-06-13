@@ -6,7 +6,7 @@ LeetCode
 | # | Title | Solutions | Difficulty | # of Solutions | R |
 |------|-------|---------------|-------------|-------------------------------|-------|
 |01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](src/python/_01_easy/_01_two-sum.py)|Easy|3|
-|03|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](src/python/_02_medium/_03_longest_substring_without_repeating_characters.py)|Medium|2|
+|03|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](src/python/_02_medium/_03_longest_substring_without_repeating_characters.py)|Medium|2|Y|
 |05|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Python](src/python/_02_medium/_05_longest-palindromic-substring.py)|Medium|2|
 |07|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Python](src/python/_02_medium/_07_reverse-integer.py)|Medium|1|
 |09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](src/python/_01_easy/_09_palindrome-number.py)|Easy|
