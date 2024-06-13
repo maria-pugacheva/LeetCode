@@ -2,25 +2,45 @@ import doctest
 
 
 # ---------------------------------------------------------------------
-# Approach 1: One Pass. Time: O(n)                                  !**
+# Approach 1: Split. Time: O(n)                                     !**
 # ---------------------------------------------------------------------
-def solution(s: str) -> int:
+def solution_one(s: str) -> int:
     """Given a string s consisting of words and spaces, return the
     length of the last word in the string.
 
     Examples:
-        >>> solution('Hello World')
+        >>> solution_one('Hello World')
         5
-        >>> solution('   fly me   to   the moon  ')
+        >>> solution_one('   fly me   to   the moon  ')
         4
-        >>> solution('luffy is still joyboy')
+        >>> solution_one('luffy is still joyboy')
+        6
+    """
+    return len(s.strip().split()[-1])
+
+
+# ---------------------------------------------------------------------
+# Approach 2: One Pass. Time: O(n)                                  ***
+# ---------------------------------------------------------------------
+def solution_two(s: str) -> int:
+    """Given a string s consisting of words and spaces, return the
+    length of the last word in the string.
+
+    Examples:
+        >>> solution_two('Hello World')
+        5
+        >>> solution_two('   fly me   to   the moon  ')
+        4
+        >>> solution_two('luffy is still joyboy')
         6
     """
     cnt = 0
+    seen_alpha = False
     for i in range(len(s) - 1, -1, -1):
         if s[i] != ' ':
             cnt += 1
-        elif cnt > 0:
+            seen_alpha = True
+        elif seen_alpha:
             break
     return cnt
 
