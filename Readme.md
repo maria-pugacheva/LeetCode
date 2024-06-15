@@ -28,6 +28,7 @@ LeetCode
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_02_medium/_167_two-sum-input-array-is-sorted.py)|Medium|2|Y|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](src/python/_01_easy/_205_isomorphic-strings.py)|Easy|2|YY|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Python](src/python/_02_medium/_343_integer-break.py)|Medium|1|
