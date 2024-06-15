@@ -93,15 +93,12 @@ def solution_three(a: str, b: str) -> bool:
     map_a_b = {}
     for i in range(len(a)):
         c1, c2 = 'a_' + a[i], 'b_' + b[i]
-        if c1 not in map_a_b and c2 not in map_a_b:
-            map_a_b[c1], map_a_b[c2] = i, i
-        else:
-            if c1 not in map_a_b:
-                map_a_b[c1] = i
-            elif c2 not in map_a_b:
-                map_a_b[c2] = i
-            if map_a_b[c1] != map_a_b[c2]:
-                return False
+        if c1 not in map_a_b:
+            map_a_b[c1] = i
+        if c2 not in map_a_b:
+            map_a_b[c2] = i
+        if map_a_b[c1] != map_a_b[c2]:
+            return False
     return True
 
 
