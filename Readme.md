@@ -30,6 +30,7 @@ LeetCode
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](src/python/_01_easy/_205_isomorphic-strings.py)|Easy|3|YY|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](src/python/_01_easy/_290_word-pattern.py)|Easy|2|YY|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Python](src/python/_02_medium/_343_integer-break.py)|Medium|1|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|1|
