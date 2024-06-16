@@ -17,7 +17,7 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|2|Y|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](src/python/_01_easy/_28_find-the-index-of-the-first-occurrence-in-a-string.py)|Easy|1|YY|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](src/python/_01_easy/_35_search-insert-position.py)|Easy|1|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|1|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|2|Y|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|Y|
