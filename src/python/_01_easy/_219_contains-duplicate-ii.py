@@ -48,7 +48,7 @@ def solution_two(nums: List[int], k: int) -> bool:
 
 
 # ---------------------------------------------------------------------
-# Approach 3: Hash Set. Time: O(n)                                    !
+# Approach 3: Hash Set. Time: O(n)                                   !!
 # ---------------------------------------------------------------------
 # Hint: Store only k elements in a set at all times.
 # ---------------------------------------------------------------------
@@ -68,9 +68,9 @@ def solution_three(nums: List[int], k: int) -> bool:
     for i in range(len(nums)):
         if nums[i] in seen:
             return True
-        if len(seen) == k:
-            seen.remove(nums[i-k])
         seen.add(nums[i])
+        if len(seen) > k:
+            seen.remove(nums[i-k])
     return False
 
 
