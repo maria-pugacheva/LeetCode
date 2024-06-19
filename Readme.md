@@ -43,6 +43,7 @@ LeetCode
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](src/python/_01_easy/_392_is-subsequence.py)|Easy|1|N|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|1|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|1|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](src/python/_02_medium/_452_minimum-number-of-arrows-to-burst-balloons.py)|Medium|1|Y|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](src/python/_01_easy/_495_teemo-attacking.py)|Easy|1|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Python](src/python/_01_easy/_521_longest-uncommon-subsequence-I.py)|Easy|1|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
