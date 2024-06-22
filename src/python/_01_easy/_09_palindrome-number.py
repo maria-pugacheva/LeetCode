@@ -4,12 +4,6 @@ import doctest
 # ---------------------------------------------------------------------
 # Approach 1: Integer Reversal. Time: O(log n). Space: O(1)           !
 # ---------------------------------------------------------------------
-# Hint: Try reversing the given integer.  Note that if the last digit
-#       of the integer is 0, in order for the integer to be a
-#       palindrome, the first digit of it also needs to be 0.  Special
-#       attention should be given to the integers with an odd number of
-#       digits.
-# ---------------------------------------------------------------------
 def solution_one(n: int) -> bool:
     """Determine whether n is a palindrome.
 
@@ -20,6 +14,8 @@ def solution_one(n: int) -> bool:
         False
         >>> solution_one(121)
         True
+        >>> solution_one(2332)
+        True
         >>> solution_one(124)
         False
         >>> solution_one(-121)
@@ -27,19 +23,15 @@ def solution_one(n: int) -> bool:
     """
     if n < 0 or (n != 0 and n % 10 == 0):
         return False
-    temp = n // 10
-    rev = n % 10
-    while temp > 0:
-        rev = rev * 10 + temp % 10
-        temp //= 10
-    return n == rev
+    rev = 0
+    while n > rev:
+        rev = rev * 10 + n % 10
+        n //= 10
+    return n == rev or n == rev // 10
 
 
 # ---------------------------------------------------------------------
-# Approach 2: String Conversion. Time: O(n)                           *
-# ---------------------------------------------------------------------
-# Hint: Convert the given integer to a string.  Then, use two pointers
-#       to check if the given integer is a palindrome.
+# Approach 2: String Conversion. Time: O(n)                         ***
 # ---------------------------------------------------------------------
 def solution_two(n: int) -> bool:
     """Determine whether n is a palindrome.
@@ -51,6 +43,8 @@ def solution_two(n: int) -> bool:
         False
         >>> solution_one(121)
         True
+        >>> solution_two(2332)
+        True
         >>> solution_one(124)
         False
         >>> solution_one(-121)
@@ -58,11 +52,10 @@ def solution_two(n: int) -> bool:
     """
     if n < 0 or (n != 0 and n % 10 == 0):
         return False
-    s = str(n)
-    i = 0
-    j = len(s) - 1
+    n = str(n)
+    i, j = 0, len(n) - 1
     while i < j:
-        if s[i] != s[j]:
+        if n[i] != n[j]:
             return False
         i += 1
         j -= 1
