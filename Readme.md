@@ -22,6 +22,7 @@ LeetCode
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|YY|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|2|Y|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](src/python/_01_easy/_66_plus-one.py)|Easy|1|Y|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](src/python/_01_easy/_69_sqrt-x.py)|Easy|1|Y|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](src/python/_02_medium/_74_search-a-2d-matrix.py)|Medium|1|YY|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|Y|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|2|Y|
