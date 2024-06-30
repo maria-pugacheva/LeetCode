@@ -35,6 +35,7 @@ LeetCode
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](src/python/_02_medium/_162_find-peak-element.py)|Medium|1|YY|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_02_medium/_167_two-sum-input-array-is-sorted.py)|Medium|2|Y|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](src/python/_02_medium/_189_rotate-array.py)|Medium|2|Y|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](src/python/_01_easy/_205_isomorphic-strings.py)|Easy|3|YY|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
