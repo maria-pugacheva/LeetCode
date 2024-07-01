@@ -20,6 +20,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](src/python/_01_easy/_35_search-insert-position.py)|Easy|2|N|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](src/python/_02_medium/_54_spiral-matrix.py)|Medium|1|YY|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](src/python/_02_medium/_55_jump-game.py)|Medium|1|Y|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|YY|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|2|Y|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](src/python/_01_easy/_66_plus-one.py)|Easy|1|Y|
