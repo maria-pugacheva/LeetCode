@@ -9,12 +9,12 @@ import doctest
 def solution_one(s: str) -> str:
     """Return the longest palindromic substring in s.
 
-       Examples:
-           >>> solution_one('babad')
-           'bab'
-           >>> solution_one('abba')
-           'abba'
-       """
+    Examples:
+        >>> solution_one('babad')
+        'bab'
+        >>> solution_one('abba')
+        'abba'
+    """
     def is_palindrome(l, r) -> bool:
         while l < r:
             if s[l] != s[r]:
@@ -37,12 +37,12 @@ def solution_one(s: str) -> str:
 def solution_two(s: str) -> str:
     """Return the longest palindromic substring in s.
 
-       Examples:
-           >>> solution_two('babad')
-           'bab'
-           >>> solution_two('abba')
-           'abba'
-       """
+    Examples:
+        >>> solution_two('babad')
+        'bab'
+        >>> solution_two('abba')
+        'abba'
+    """
     def expand(l, r) -> int:
         while l >= 0 and r < len(s) and s[l] == s[r]:
             l -= 1
