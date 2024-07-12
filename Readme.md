@@ -14,6 +14,7 @@ LeetCode
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](src/python/_02_medium/_12_integer-to-roman.py)|Medium|1|Y|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](src/python/_01_easy/_13_roman-to-integer.py)|Easy|1|Y|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](src/python/_01_easy/_14_longest-common-prefix.py)|Easy|2|Y|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](src/python/_02_medium/_15_3Sum.py)|Medium|1|Y|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](src/python/_01_easy/_20_valid-parentheses.py)|Easy|1|N|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](src/python/_01_easy/_26_remove-duplicates-from-sorted-array.py)|Easy|Y|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|2|Y|
