@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Solutions
 
-| # | Title | Solutions | Difficulty | # of Solutions | R |
+| # | Title | Solutions | Difficulty | # of S | R |
 |------|-------|---------------|-------------|-------------------------------|-------|
 |01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](src/python/_01_easy/_01_two-sum.py)|Easy|3|Y|
 |03|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](src/python/_02_medium/_03_longest_substring_without_repeating_characters.py)|Medium|2|Y|
