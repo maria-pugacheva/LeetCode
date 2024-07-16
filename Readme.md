@@ -63,6 +63,7 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](src/python/_01_easy/_242_valid-anagram.py)|Easy|2|N|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](src/python/_01_easy/_290_word-pattern.py)|Easy|2|YY|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](src/python/_02_medium/_299_bulls_and_cows.py)|Medium|1|Y|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Python](src/python/_02_medium/_343_integer-break.py)|Medium|1|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|1|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|1|
