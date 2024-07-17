@@ -226,6 +226,7 @@ LeetCode
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)|[Python](src/python/_01_easy/_2706_buy-two-chocolates.py)|Easy|1|
 |2710|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/)|[Python](src/python/_01_easy/_2710_remove-trailing-zeros-from-a-string.py)|Easy|1|
 |2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)|[Python](src/python/_01_easy/_2716_minimize-string-length.py)|Easy|1|
+|2733|[Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)|[Python](src/python/_01_easy/_2733_neither-minimum-nor-maximum.py)|Easy|2|Y|
 |2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[Python](src/python/_01_easy/_2744_find-maximum-number-of-string-pairs.py)|Easy|1|
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Python](src/python/_01_easy/_2769_find-the-maximum-achievable-number.py)|Easy|1|
 |2778|[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)|[Python](src/python/_01_easy/_2778_sum-of-squares-of-special-elements.py)|Easy|1|
