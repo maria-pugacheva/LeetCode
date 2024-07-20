@@ -142,6 +142,7 @@ LeetCode
 |1941|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)|[Python](src/python/_01_easy/_1941_check-if-all-characters-have-equal-number-of-occurrences.py)|Easy|1|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](src/python/_01_easy/_1957_delete-characters-to-make-fancy-string.py)|Easy|1|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[Python](src/python/_01_easy/_1961_check-if-string-is-a-prefix-of-array.py)|Easy|1|
+|1974|[Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)|[Python](src/python/_01_easy/_1974_minimum-time-to-type-word-using-special-typewriter.py)|Easy|1|Y|
 |1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|[Python](src/python/_01_easy/_1979_find-greatest-common-divisor-of-array.py)|Easy|2|
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](src/python/_01_easy/_1984_minimum-difference-between-highest-and-lowest-of-k-scores.py)|Easy|1|
 |1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Python](src/python/_01_easy/_1991_find-the-middle-index-in-array.py)|Easy|1|N|
