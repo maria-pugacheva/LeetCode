@@ -145,6 +145,7 @@ LeetCode
 |1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)|[Python](src/python/_01_easy/_1979_find-greatest-common-divisor-of-array.py)|Easy|2|
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](src/python/_01_easy/_1984_minimum-difference-between-highest-and-lowest-of-k-scores.py)|Easy|1|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](src/python/_01_easy/_2000_reverse-prefix-of-word.py)|Easy|1|
+|2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Python](src/python/_01_easy/_2006_count-number-of-pairs-with-absolute-difference-k.py)|Easy|1|Y|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
 |2016|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python](src/python/_01_easy/_2016_maximum-difference-between-increasing-elements.py)|Easy|1|Y|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[Python](src/python/_01_easy/_2022_convert-1d-array-into-2d-array.py)|Easy|1|
