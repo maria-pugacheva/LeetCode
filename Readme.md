@@ -146,6 +146,7 @@ LeetCode
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](src/python/_01_easy/_1984_minimum-difference-between-highest-and-lowest-of-k-scores.py)|Easy|1|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](src/python/_01_easy/_2000_reverse-prefix-of-word.py)|Easy|1|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](src/python/_01_easy/_2011_final-value-of-variable-after-performing-operations.py)|Easy|1|
+|2016|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python](src/python/_01_easy/_2016_maximum-difference-between-increasing-elements.py)|Easy|1|Y|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[Python](src/python/_01_easy/_2022_convert-1d-array-into-2d-array.py)|Easy|1|
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](src/python/_01_easy/_2027_minimum-moves-to-convert-string.py)|Easy|1|
 |2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three)|[Python](src/python/_01_easy/_2032_two-out-of-three.py)|Easy|2+|
