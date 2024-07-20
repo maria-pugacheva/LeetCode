@@ -155,6 +155,7 @@ LeetCode
 |2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Python](src/python/_01_easy/_2053_kth-distinct-string-in-an-array.py)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Python](src/python/_01_easy/_2057_smallest-index-with-equal-value.py)|Easy|
 |2068|[Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)|[Python](src/python/_01_easy/_2068_check-whether-two-strings-are-almost-equivalent.py)|Easy|
+|2078|[Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)|[Python](src/python/_01_easy/_2078_two-furthest-houses-with-different-colors.py)|Easy|1|Y|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[Python](src/python/_01_easy/_2085_count-common-words-with-one-occurrence.py)|Easy|
 |2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)|[Python](src/python/_01_easy/_2103_rings-and-rods.py)|Easy|1|
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python](src/python/_01_easy/_2108_find-first-palindromic-string-in-the-array.py)|Easy|1|
