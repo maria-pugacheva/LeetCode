@@ -132,6 +132,7 @@ LeetCode
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](src/python/_01_easy/_1832_check-if-the-sentence-is-pangram.py)|Easy|2|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)|[Python](src/python/_01_easy/_1844_replace-all-digits-with-characters.py)|Easy|1|
 |1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Python](src/python/_01_easy/_1848_minimum-distance-to-the-target-element.py)|Easy|2|
+|1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Python](src/python/_01_easy/_1859_sorting-the-sentence.py)|Easy|1|N|
 |1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/)|[Python](src/python/_01_easy/_1869_longer-contiguous-segments-of-ones-than-zeros.py)|Easy|1|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Python](src/python/_01_easy/_1876_substrings-of-size-three-with-distinct-characters.py)|Easy|1|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)|[Python](src/python/_01_easy/_1880_check-if-word-equals-summation-of-two-words.py)|Easy|1|
