@@ -119,6 +119,7 @@ LeetCode
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](src/python/_01_easy/_1662_check-if-two-string-arrays-are-equivalent.py)|Easy|1|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](src/python/_01_easy/_1672_richest-customer-wealth.py)|Easy|1|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](src/python/_01_easy/_1688_count-of-matches-in-tournament.py)|Easy|1|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python](src/python/_01_easy/_1720_decode-xored-array.py)|Easy|1|Y|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](src/python/_01_easy/_1732_find-the-highest-altitude.py)|Easy|1|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](src/python/_01_easy/_1752_check-if-array-is-sorted-and-rotated.py)|Easy|1|Y|
