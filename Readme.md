@@ -140,6 +140,7 @@ LeetCode
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Python](src/python/_01_easy/_1929_concatenation-of-array.py)|Easy|1|
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Python](src/python/_01_easy/_1935_maximum-number-of-words-you-can-type.py)|Easy|
 |1941|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)|[Python](src/python/_01_easy/_1941_check-if-all-characters-have-equal-number-of-occurrences.py)|Easy|1|
+|1945|[Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)|[Python](src/python/_01_easy/_1945_sum-of-digits-of-string-after-convert.py)|Easy|1|N|
 |1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](src/python/_01_easy/_1957_delete-characters-to-make-fancy-string.py)|Easy|1|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[Python](src/python/_01_easy/_1961_check-if-string-is-a-prefix-of-array.py)|Easy|1|
 |1974|[Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)|[Python](src/python/_01_easy/_1974_minimum-time-to-type-word-using-special-typewriter.py)|Easy|1|Y|
