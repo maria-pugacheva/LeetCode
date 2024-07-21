@@ -135,6 +135,7 @@ LeetCode
 |1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/)|[Python](src/python/_01_easy/_1869_longer-contiguous-segments-of-ones-than-zeros.py)|Easy|1|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Python](src/python/_01_easy/_1876_substrings-of-size-three-with-distinct-characters.py)|Easy|1|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)|[Python](src/python/_01_easy/_1880_check-if-word-equals-summation-of-two-words.py)|Easy|1|
+|1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)|[Python](src/python/_01_easy/_1897_redistribute-characters-to-make-all-strings-equal.py)|Easy|1|N|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Python](src/python/_01_easy/_1903_largest-odd-number-in-string.py)|Easy|2|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Python](src/python/_01_easy/_1913_maximum-product-difference-between-two-pairs.py)|Easy|1|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Python](src/python/_01_easy/_1929_concatenation-of-array.py)|Easy|1|
