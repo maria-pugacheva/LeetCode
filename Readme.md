@@ -125,6 +125,7 @@ LeetCode
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/)|[Python](src/python/_01_easy/_1779_find-nearest-point-that-has-the-same-x-or-y-coordinate.py)|Easy|1|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](src/python/_01_easy/_1784_check-if-binary-string-has-at-most-one-segment-of-ones.py)|Easy|1|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](src/python/_01_easy/_1796_second-largest-digit-in-a-string.py)|Easy|1|
+|1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Python](src/python/_01_easy/_1805_number-of-different-integers-in-a-string.py)|Easy|1|YY|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Python](src/python/_01_easy/_1812_determine-color-of-a-chessboard-square.py)|Easy|1|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](src/python/_01_easy/_1816_truncate-sentence.py)|Easy|1|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](src/python/_01_easy/_1822_sign-of-the-product-of-an-array.py)|Easy|1|
