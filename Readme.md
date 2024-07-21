@@ -121,6 +121,7 @@ LeetCode
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](src/python/_01_easy/_1688_count-of-matches-in-tournament.py)|Easy|1|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](src/python/_01_easy/_1732_find-the-highest-altitude.py)|Easy|1|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Python](src/python/_01_easy/_1736_latest-time-by-replacing-hidden-digits.py)|Easy|1|
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](src/python/_01_easy/_1752_check-if-array-is-sorted-and-rotated.py)|Easy|1|Y|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](src/python/_01_easy/_1768_merge-strings-alternately.py)|Easy|1|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/)|[Python](src/python/_01_easy/_1779_find-nearest-point-that-has-the-same-x-or-y-coordinate.py)|Easy|1|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](src/python/_01_easy/_1784_check-if-binary-string-has-at-most-one-segment-of-ones.py)|Easy|1|
