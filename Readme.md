@@ -115,6 +115,7 @@ LeetCode
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](src/python/_01_easy/_1582_special-positions-in-a-binary-matrix.py)|Easy|2|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](src/python/_01_easy/_1603_design-parking-system.py)|Easy|1|N|
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python](src/python/_01_easy/_1614_maximum-nesting-depth-of-the-parentheses.py)|Easy|1|Y|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](src/python/_01_easy/_1624_largest-substring-between-two-equal-characters.py)|Easy|1|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](src/python/_01_easy/_1662_check-if-two-string-arrays-are-equivalent.py)|Easy|1|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](src/python/_01_easy/_1672_richest-customer-wealth.py)|Easy|1|
