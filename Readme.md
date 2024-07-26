@@ -114,6 +114,7 @@ LeetCode
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/)|[Python](src/python/_01_easy/_1496_path-crossing.py)|Easy|1|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](src/python/_01_easy/_1523_count-odd-numbers-in-an-interval-range.py)|Easy|1|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
+|1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](src/python/_01_easy/_1556_thousand_separator.py)|Easy|1|Y|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Python](src/python/_01_easy/_1572_matrix-diagonal-sum.py)|Easy|N|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](src/python/_01_easy/_1582_special-positions-in-a-binary-matrix.py)|Easy|2|
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](src/python/_01_easy/_1598_crawler-log-folder.py)|Easy|1|N|
