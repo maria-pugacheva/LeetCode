@@ -105,6 +105,7 @@ LeetCode
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](src/python/_01_easy/_1304_find-n-unique-integers-sum-up-to-zero.py)|Easy|1|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)|[Python](src/python/_01_easy/_1309_decrypt-string-from-alphabet-to-integer-mapping.py)|Easy|1|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](src/python/_01_easy/_1331_rank-transform-of-an-array.py)|Easy|1|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](src/python/_01_easy/_1342_number-of-steps-to-reduce-a-number-to-zero.py)|Easy|2|Y|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)|[Python](src/python/_01_easy/_1370_increasing-decreasing-string.py)|Easy|1|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](src/python/_01_easy/_1380_lucky-numbers-in-a-matrix.py)|Easy|1|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Python](src/python/_01_easy/_1422_maximum-score-after-splitting-a-string.py)|Easy|1|
