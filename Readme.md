@@ -112,6 +112,7 @@ LeetCode
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](src/python/_01_easy/_1480_running-sum-of-1d-array.py)|Easy|2|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](src/python/_01_easy/_1491_average-salary-excluding-the-minimum-and-maximum-salary.py)|Easy|2|
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/)|[Python](src/python/_01_easy/_1496_path-crossing.py)|Easy|1|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](src/python/_01_easy/_1518_water-bottles.py)|Easy|1|Y|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](src/python/_01_easy/_1523_count-odd-numbers-in-an-interval-range.py)|Easy|1|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](src/python/_01_easy/_1550_three-consecutive-odds.py)|Easy|2|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](src/python/_01_easy/_1556_thousand_separator.py)|Easy|1|Y|
