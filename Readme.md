@@ -95,6 +95,7 @@ LeetCode
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](src/python/_01_easy/_908_smallest-range-I.py)|Easy|1|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|1|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](src/python/_01_easy/_925_long-pressed-name.py)|Easy|1|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](src/python/_01_easy/_976_largest-perimeter-triangle.py)|Easy|1|Y|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](src/python/_01_easy/_1002_find-common-characters.py)|Easy|1|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](src/python/_01_easy/_1025_divisor-game.py)|Easy|1|
