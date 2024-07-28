@@ -98,6 +98,7 @@ LeetCode
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](src/python/_01_easy/_1002_find-common-characters.py)|Easy|1|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](src/python/_01_easy/_1025_divisor-game.py)|Easy|1|
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](src/python/_01_easy/_1189_maximum-number-of-balloons.py)|Easy|2|Y|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](src/python/_01_easy/_1221_split-a-string-in-balanced-strings.py)|Easy|1|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](src/python/_01_easy/_1281_subtract-the-product-and-sum-of-digits-of-an-integer.py)|Easy|1|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](src/python/_01_easy/_1295_find-numbers-with-even-number-of-digits.py)|Easy|3|
