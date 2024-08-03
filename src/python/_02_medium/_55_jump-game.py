@@ -12,8 +12,8 @@ def solution(nums: List[int]) -> bool:
     otherwise.
 
     Examples:
-        # >>> solution([2, 3, 1, 1, 4])
-        # True
+        >>> solution([2, 3, 1, 1, 4])
+        True
         >>> solution([3, 2, 1, 0, 4])
         False
     """
