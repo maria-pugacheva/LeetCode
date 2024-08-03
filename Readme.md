@@ -54,6 +54,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](src/python/_02_medium/_189_rotate-array.py)|Medium|2|Y|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|Y|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](src/python/_01_easy/_202_happy-number.py)|Easy|3|Y|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](src/python/_01_easy/_205_isomorphic-strings.py)|Easy|3|YY|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](src/python/_02_medium/_209_minimum-size-subarray-sum.py)|Medium|1|Y|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
