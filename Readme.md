@@ -33,6 +33,7 @@ LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](src/python/_02_medium/_64_minimum-path-sum.py)|Medium|1|Y|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](src/python/_01_easy/_66_plus-one.py)|Easy|1|Y|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](src/python/_01_easy/_69_sqrt-x.py)|Easy|1|Y|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](src/python/_01_easy/_70_climbing-stairs.py)|Easy|2|YYY|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](src/python/_02_medium/_71_simplify-path.py)|Medium|1|Y|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](src/python/_02_medium/_73_set-matrix-zeroes.py)|Medium|2|YY|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](src/python/_02_medium/_74_search-a-2d-matrix.py)|Medium|1|YY|
