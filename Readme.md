@@ -296,3 +296,4 @@ LeetCode
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Python](src/python/_01_easy/_3110_score-of-a-string.py)|Easy|1|
 |3114|[Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/)|[Python](src/python/_01_easy/_3114_latest-time-you-can-obtain-after-replacing-characters.py)|Easy|1|
 |3232|[Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)|[Python](src/python/_01_easy/_3232_find-if-digit-game-can-be-won.py)|Easy|1|N|
+|3238|[Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/)|[Python](src/python/_01_easy/_3238_find-the-number-of-winning-players.py)|Easy|1|N|
