@@ -64,6 +64,7 @@ LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](src/python/_01_easy/_228_summary-ranges.py)|Easy|1|N|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](src/python/_02_medium/_238_product-of-array-except-self.py)|Medium|1|YYY|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](src/python/_01_easy/_242_valid-anagram.py)|Easy|2|N|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](src/python/_01_easy/_263_ugly-number.py)|Easy|1|Y|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](src/python/_01_easy/_290_word-pattern.py)|Easy|2|YY|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](src/python/_02_medium/_299_bulls_and_cows.py)|Medium|1|Y|
