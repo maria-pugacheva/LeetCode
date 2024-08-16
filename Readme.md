@@ -74,6 +74,7 @@ LeetCode
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|1|
 |349|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](src/python/_01_easy/_350_intersection-of-two-arrays-II.py)|Easy|3|Y|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](src/python/_01_easy/_350_intersection-of-two-arrays-II.py)|Easy|2|Y|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](src/python/_01_easy/_374_guess-number-higher-or-lower.py)|Easy|2|Y|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](src/python/_01_easy/_383_ransom-note.py)|Easy|1|N|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Python](src/python/_01_easy/_389_find-the-difference.py)|Easy|2|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](src/python/_01_easy/_392_is-subsequence.py)|Easy|1|N|
