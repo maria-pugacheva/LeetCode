@@ -71,7 +71,7 @@ def solution_two(nums: List[int], t: int) -> List[int]:
             i += 1
         else:
             if x == y:
-                return [nums.index(x), nums.index(y, nums.index(x)) + 1]
+                return [nums.index(x), nums.index(y, nums.index(x) + 1)]
             return [nums.index(x), nums.index(y)]
     return [-1, -1]
 
