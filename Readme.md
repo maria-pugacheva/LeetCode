@@ -39,6 +39,8 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](src/python/_02_medium/_74_search-a-2d-matrix.py)|Medium|1|YY|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|Y|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|2|Y|
+|94|[Binary Tree Inorder Traversal - Iterative](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](src/python/_01_easy/_94_binary-tree-inorder-traversal-iterative.py)|Easy|1|YY|N|
+|94|[Binary Tree Inorder Traversal - Recursive](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](src/python/_01_easy/_94_binary-tree-inorder-traversal-recursive.py)|Easy|1|YY|N|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](src/python/_02_medium/_120_triangle.py)|Medium|1|Y|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](src/python/_01_easy/_121_best-time-to-buy-and-sell-stock.py)|Easy|1|Y|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](src/python/_02_medium/_122_best-time-to-buy-and-sell-stock-II.py)|Medium|1|Y|
