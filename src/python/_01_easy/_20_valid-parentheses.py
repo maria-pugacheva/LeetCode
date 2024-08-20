@@ -27,11 +27,11 @@ def solution_one(s: str) -> bool:
     valid = {'{}', '()', '[]'}
     stack = []
     for i in range(len(s)):
-        if len(stack) == 0 or stack[-1] + s[i] not in valid:
+        if not stack or stack[-1] + s[i] not in valid:
             stack.append(s[i])
         else:
             stack.pop()
-    return len(stack) == 0
+    return not stack
 
 
 if __name__ == '__main__':
