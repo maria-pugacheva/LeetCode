@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Check All. Time: O(n)                                   !
+# Approach 1: Addition with Carry. Time: O(n). Space: O(n)            !
 # ---------------------------------------------------------------------
 def solution_one(digits: List[int]) -> List[int]:
     """Given a large integer represented as an integer array digits,

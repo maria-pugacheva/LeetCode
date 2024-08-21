@@ -31,7 +31,7 @@ LeetCode
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](src/python/_02_medium/_57_insert-interval.py)|Medium|1|YYY|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|2|N|N|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](src/python/_02_medium/_64_minimum-path-sum.py)|Medium|1|Y|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](src/python/_01_easy/_66_plus-one.py)|Easy|1|Y|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](src/python/_01_easy/_66_plus-one.py)|Easy|1|YY|N|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](src/python/_01_easy/_69_sqrt-x.py)|Easy|1|Y|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](src/python/_01_easy/_70_climbing-stairs.py)|Easy|2|YYY|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](src/python/_02_medium/_71_simplify-path.py)|Medium|1|Y|
