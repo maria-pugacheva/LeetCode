@@ -28,11 +28,13 @@ def solution_one(n: int) -> int:
         >>> solution_one(5)
         8
     """
-    first, second = 1, 2
-    for i in range(3, n + 1):
+    if n <= 3:
+        return n
+    first, second = 0, 1
+    for i in range(n):
         third = first + second
         first, second = second, third
-    return second if n > 1 else 1
+    return second
 
 
 # ---------------------------------------------------------------------
