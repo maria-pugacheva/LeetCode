@@ -5,15 +5,15 @@ from typing import List
 # ---------------------------------------------------------------------
 # Approach 1: Sorting. T: O(n k log k). S: O(nk)                    ***
 # ---------------------------------------------------------------------
-# Complexity Analysis: k is the maximum length of a string in strs
+# Complexity Analysis: k is the maximum length of a string in words
 # ---------------------------------------------------------------------
-def solution_one(strs: List[str]) -> List[List[str]]:
-    """Given an array of strings strs, group the anagrams together.
+def solution_one(words: List[str]) -> List[List[str]]:
+    """Given an array of strings words, group the anagrams together.
 
     Preconditions:
-        1 <= len(strs) <= 10^4
-        0 <= len(strs[i]) <= 100
-        strs[i] consists of lowercase English letters
+        1 <= len(words) <= 10^4
+        0 <= len(words[i]) <= 100
+        words[i] consists of lowercase English letters
 
     Examples:
         >>> solution_one(['eat', 'tea', 'tan', 'ate', 'nat', 'bat'])
@@ -24,7 +24,7 @@ def solution_one(strs: List[str]) -> List[List[str]]:
         [['']]
     """
     groups = {}
-    for s in strs:
+    for s in words:
         t = ''.join(sorted(s))
         if t not in groups:
             groups[t] = []
@@ -35,15 +35,15 @@ def solution_one(strs: List[str]) -> List[List[str]]:
 # ---------------------------------------------------------------------
 # Approach 2: Categorize by Count. T: O(nk). S: O(nk)               ^**
 # ---------------------------------------------------------------------
-# Complexity Analysis: k is the maximum length of a string in strs
+# Complexity Analysis: k is the maximum length of a string in words
 # ---------------------------------------------------------------------
-def solution_two(strs: List[str]) -> List[List[str]]:
-    """Given an array of strings strs, group the anagrams together.
+def solution_two(words: List[str]) -> List[List[str]]:
+    """Given an array of strings words, group the anagrams together.
 
     Preconditions:
-        1 <= len(strs) <= 10^4
-        0 <= len(strs[i]) <= 100
-        strs[i] consists of lowercase English letters
+        1 <= len(words) <= 10^4
+        0 <= len(words[i]) <= 100
+        words[i] consists of lowercase English letters
 
     Examples:
         >>> solution_two(['eat', 'tea', 'tan', 'ate', 'nat', 'bat'])
@@ -54,7 +54,7 @@ def solution_two(strs: List[str]) -> List[List[str]]:
         [['']]
     """
     groups = {}
-    for s in strs:
+    for s in words:
         cnt = [0] * 26
         for ch in s:
             cnt[ord(ch) - 97] += 1

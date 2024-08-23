@@ -23,7 +23,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](src/python/_02_medium/_36_valid-sudoku.py)|Medium|1|Y|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](src/python/_02_medium/_45_jump-game-II.py)|Medium|1|YYY|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](src/python/_02_medium/_48_rotate-image.py)|Medium|1|Y|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|N|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](src/python/_02_medium/_50_pow-x-n.py)|Medium|1|Y|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](src/python/_02_medium/_54_spiral-matrix.py)|Medium|1|YY|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](src/python/_02_medium/_55_jump-game.py)|Medium|1|Y|
