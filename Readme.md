@@ -55,7 +55,7 @@ LeetCode
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](src/python/_02_medium/_153_find-minimum-in-rotated-sorted-array.py)|Medium|1|YY|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](src/python/_02_medium/_155_min-stack.py)|Medium|1|Y|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](src/python/_02_medium/_162_find-peak-element.py)|Medium|1|YY|
-|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_02_medium/_167_two-sum-input-array-is-sorted.py)|Medium|2|Y|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_02_medium/_167_two-sum-input-array-is-sorted.py)|Medium|2|N|N|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](src/python/_02_medium/_189_rotate-array.py)|Medium|2|YY|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](src/python/_02_medium/_200_number-of-islands.py)|Medium|1|Y|

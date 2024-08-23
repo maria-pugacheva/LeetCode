@@ -22,7 +22,7 @@ def solution_one(nums: List[int], t: int) -> List[int]:
         c = t - nums[i]
         left, right = i + 1, len(nums) - 1
         while left <= right:
-            ind = left + (right - left) // 2
+            ind = (left + right) // 2
             if nums[ind] == c:
                 return [i + 1, ind + 1]
             elif nums[ind] < c:
@@ -50,10 +50,10 @@ def solution_two(nums: List[int], t: int) -> List[int]:
     """
     i, j = 0, len(nums) - 1
     while i < j:
-        s = nums[i] + nums[j]
-        if s == t:
+        val = nums[i] + nums[j]
+        if val == t:
             return [i + 1, j + 1]
-        elif s < t:
+        elif val < t:
             i += 1
         else:
             j -= 1
