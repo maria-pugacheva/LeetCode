@@ -3,7 +3,7 @@ from collections import Counter
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Sorting. Time: O(n log n). Space: O(n)                ^**
+# Approach 1: Sorting. Time: O(n log n)                             ***
 # ---------------------------------------------------------------------
 def solution_one(s: str, t: str) -> bool:
     """Given two strings s and t, return True if t is an anagram of s.
@@ -22,7 +22,7 @@ def solution_one(s: str, t: str) -> bool:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: HashMap. Time: O(n). Space: O(1)                      ***
+# Approach 2: Frequency Counter. Time: O(n). Space: O(1)            ***
 # ---------------------------------------------------------------------
 def solution_two(s: str, t: str) -> bool:
     """Given two strings s and t, return True if t is an anagram of s.
@@ -37,13 +37,42 @@ def solution_two(s: str, t: str) -> bool:
         >>> solution_two('anagram', 'nagaram')
         True
     """
+    cnt = [0] * 26
+    for i in range(len(s)):
+        cnt[ord(s[i]) - 97] += 1
+    for j in range(len(t)):
+        cnt[ord(t[j]) - 97] -= 1
+        if cnt[ord(t[j]) - 97] < 0:
+            return False
+    return sum(cnt) == 0
+
+
+# ---------------------------------------------------------------------
+# Approach 3: HashMap. Time: O(n). Space: O(n)                      ***
+# ---------------------------------------------------------------------
+# Follow up: What if the inputs contain Unicode characters? How would
+#            you adapt your solution to such a case?
+# ---------------------------------------------------------------------
+def solution_three(s: str, t: str) -> bool:
+    """Given two strings s and t, return True if t is an anagram of s.
+
+    Examples:
+        >>> solution_three('car', 'rac')
+        True
+        >>> solution_three('car', 'rat')
+        False
+        >>> solution_three('aaaa', 'aa')
+        False
+        >>> solution_three('anagram', 'nagaram')
+        True
+    """
     if len(s) != len(t):
         return False
-    c = Counter(s)
+    cnt = Counter(s)
     for i in range(len(t)):
-        if t[i] not in c or c[t[i]] - 1 < 0:
+        cnt[t[i]] = cnt.get(t[i], 0) - 1
+        if cnt[t[i]] < 0:
             return False
-        c[t[i]] -= 1
     return True
 
 
