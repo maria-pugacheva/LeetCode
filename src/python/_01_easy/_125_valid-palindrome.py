@@ -23,9 +23,9 @@ def solution_one(s: str) -> bool:
             i += 1
         elif not s[j].isalnum():
             j -= 1
-        elif s[i].lower() != s[j].lower():
-            return False
         else:
+            if s[i].lower() != s[j].lower():
+                return False
             i += 1
             j -= 1
     return True
