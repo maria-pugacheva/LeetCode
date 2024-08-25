@@ -17,13 +17,12 @@ def solution(prices: List[int]) -> int:
         5
     """
     profit = 0
-    min_price = prices[0]
-    for i in range(len(prices)):
-        p = prices[i]
-        if p < min_price:
-            min_price = p
-        if p - min_price > profit:
-            profit = p - min_price
+    minPrice = prices[0]
+    for i in range(1, len(prices)):
+        if prices[i] - minPrice > profit:
+            profit = prices[i] - minPrice
+        else:
+            minPrice = min(minPrice, prices[i])
     return profit
 
 
