@@ -2,9 +2,9 @@ import doctest
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Brute Force. Time: O(n^3)                             ^**
+# Approach 1: Brute Force - TLE. Time: O(n^3)                       ^**
 # ---------------------------------------------------------------------
-# Hint: Allocate all possible substrings first.
+# Hint: Find all possible substrings first.
 # ---------------------------------------------------------------------
 def solution_one(s: str) -> int:
     """Return the length of the longest unique substring in s.
@@ -28,8 +28,7 @@ def solution_one(s: str) -> int:
         for k in range(left, right + 1):
             if s[k] in chars:
                 return False
-            else:
-                chars.add(s[k])
+            chars.add(s[k])
         return True
 
     longest = 0
