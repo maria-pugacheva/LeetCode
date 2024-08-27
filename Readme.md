@@ -106,6 +106,7 @@ LeetCode
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|1|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](src/python/_01_easy/_824_goat-latin.py)|Easy|2|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Python](src/python/_01_easy/_860_lemonade-change.py)|Easy|1|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)|[Python](src/python/_02_medium/_875_koko-eating-bananas.py)|Medium|1|Y|N|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[Python](src/python/_01_easy/_896_monotonic-array.py)|Easy|2|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](src/python/_01_easy/_908_smallest-range-I.py)|Easy|1|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[Python](src/python/_01_easy/_917_reverse-only-letters.py)|Easy|1|
