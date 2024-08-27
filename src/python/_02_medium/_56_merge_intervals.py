@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Sorting. Time: O(n log(n))                            !**
+# Approach 1: Sorting. Time: O(n log(n))                            ***
 # ---------------------------------------------------------------------
 def solution_one(nums: List[List[int]]) -> List[List[int]]:
     """Merge overlapping intervals and return an array of the
@@ -22,8 +22,7 @@ def solution_one(nums: List[List[int]]) -> List[List[int]]:
     nums.sort()
     res = [nums[0]]
     for i in range(1, len(nums)):
-        if nums[i][0] <= res[-1][1]:
-            res[-1][0] = min(res[-1][0], nums[i][0])
+        if res[-1][1] >= nums[i][0]:
             res[-1][1] = max(res[-1][1], nums[i][1])
         else:
             res.append(nums[i])
