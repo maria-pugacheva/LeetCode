@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Binary Search. Time: O(log n)                         !!!
+# Approach 1: Binary Search. Time: O(log n)                         ***
 # ---------------------------------------------------------------------
 def solution_one(nums: List[int]) -> int:
     """Given a sorted rotated array nums of unique elements, return the
@@ -21,20 +21,14 @@ def solution_one(nums: List[int]) -> int:
         >>> solution_one([4, 5, 6, 7, 0, 1, 2])
         0
     """
-    if nums[0] <= nums[-1]:
-        return nums[0]
     i, j = 0, len(nums) - 1
-    while i <= j:
-        mid = i + (j - i) // 2
-        if nums[mid] > nums[mid + 1]:
-            return nums[mid + 1]
-        if nums[mid - 1] > nums[mid]:
-            return nums[mid]
-        if nums[mid] > nums[0]:
+    while i < j:
+        mid = (i + j) // 2
+        if mid < len(nums) - 1 and nums[mid] > nums[-1]:
             i = mid + 1
         else:
-            j = mid - 1
-    return -1
+            j = mid
+    return nums[j]
 
 
 if __name__ == '__main__':
