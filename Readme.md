@@ -37,7 +37,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](src/python/_01_easy/_70_climbing-stairs.py)|Easy|2|YYY|N|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](src/python/_02_medium/_71_simplify-path.py)|Medium|1|Y|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](src/python/_02_medium/_73_set-matrix-zeroes.py)|Medium|2|YY|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](src/python/_02_medium/_74_search-a-2d-matrix.py)|Medium|1|YY|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](src/python/_02_medium/_74_search-a-2d-matrix.py)|Medium|1|YY|N|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](src/python/_02_medium/_80_remove-duplicates-from-sorted-array-II.py)|Medium|2|Y|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[Python](src/python/_01_easy/_88_merge-sorted-array.py)|Easy|2|Y|N|
 |94|[Binary Tree Inorder Traversal - Iterative](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](src/python/_01_easy/_94_binary-tree-inorder-traversal-iterative.py)|Easy|1|YY|N|
