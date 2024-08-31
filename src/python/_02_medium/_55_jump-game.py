@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: DP. Time: O(n)                                          !
+# Approach 1: Greedy. Time: O(n)                                      !
 # ---------------------------------------------------------------------
 def solution(nums: List[int]) -> bool:
     """You are initially positioned at the array's first index, and each
@@ -12,17 +12,18 @@ def solution(nums: List[int]) -> bool:
     otherwise.
 
     Examples:
-        >>> solution([2, 3, 1, 1, 4])
+        >>> solution([2, 3, 1, 1, 0])
         True
         >>> solution([3, 2, 1, 0, 4])
         False
     """
-    lastPos = len(nums) - 1
+    goalPost = len(nums) - 1
     for i in range(len(nums) - 1, -1, -1):
-        if i + nums[i] >= lastPos:
-            lastPos = i
-    return lastPos == 0
+        if i + nums[i] >= goalPost:
+            goalPost = i
+    return goalPost == 0
 
 
 if __name__ == '__main__':
     doctest.testmod()
+

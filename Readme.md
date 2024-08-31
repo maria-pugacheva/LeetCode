@@ -27,7 +27,7 @@ LeetCode
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|N|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](src/python/_02_medium/_50_pow-x-n.py)|Medium|1|Y|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](src/python/_02_medium/_54_spiral-matrix.py)|Medium|1|YY|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](src/python/_02_medium/_55_jump-game.py)|Medium|1|Y|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](src/python/_02_medium/_55_jump-game.py)|Medium|1|Y|N|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](src/python/_02_medium/_56_merge_intervals.py)|Medium|1|Y|N|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](src/python/_02_medium/_57_insert-interval.py)|Medium|1|YYY|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](src/python/_01_easy/_58_length-of-last-word.py)|Easy|2|N|N|
