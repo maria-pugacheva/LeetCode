@@ -3,7 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Greedy. Time: O(n)                                     !!
+# Approach 1: Greedy. Time: O(n)                                      !
 # ---------------------------------------------------------------------
 def solution(nums: List[int]) -> int:
     """You are initially positioned at the array's first index, and each
@@ -17,12 +17,15 @@ def solution(nums: List[int]) -> int:
         >>> solution([2, 3, 0, 1, 4])
         2
     """
-    cnt = curr_far = curr_end = 0
-    for i in range(len(nums) - 1):
-        curr_far = max(curr_far, i + nums[i])
-        if i == curr_end:
-            cnt += 1
-            curr_end = curr_far
+    cnt = 0
+    l = r = 0
+    while r < len(nums) - 1:
+        farthest = 0
+        for i in range(l, r + 1):
+            farthest = max(farthest, i + nums[i])
+        l = r + 1
+        r = farthest
+        cnt += 1
     return cnt
 
 
