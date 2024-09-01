@@ -49,7 +49,7 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](src/python/_01_easy/_125_valid-palindrome.py)|Easy|1|N|N|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](src/python/_02_medium/_128_longest-consecutive-sequence.py)|Medium|1|Y|N|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](src/python/_02_medium/_130_surrounded-regions.py)|Medium|1|Y|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](src/python/_02_medium/_134_gas-station.py)|Medium|1|YYY|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](src/python/_02_medium/_134_gas-station.py)|Medium|1|YY|N|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|3|N|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](src/python/_01_easy/_144_binary-tree-preorder-traversal.py)|Easy|1|YY|N|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](src/python/_02_medium/_151_reverse-words-in-a-string.py)|Medium|2|N|
