@@ -98,6 +98,7 @@ LeetCode
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](src/python/_01_easy/_566_reshape-the-matrix.py)|Easy|1|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|[Python](src/python/_01_easy/_575_distribute-candies.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|1|
+|678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](src/python/_02_medium/_678_valid-parenthesis-string.py)|Medium|1|Y|Y|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](src/python/_01_easy/_704_binary-search.py)|Easy|1|N|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
