@@ -106,6 +106,7 @@ LeetCode
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](src/python/_01_easy/_724_find-pivot-index.py)|Easy|1|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Python](src/python/_01_easy/_744_find-smallest-letter-greater-than-target.py)|Easy|1|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|1|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](src/python/_02_medium/_763_partition-labels.py)|Medium|1|Y|N|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](src/python/_01_easy/_766_toeplitz-matrix.py)|Easy|1|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Python](src/python/_01_easy/_771_jewels-and-stones.py)|Easy|2|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](src/python/_01_easy/_806_number-of-lines-to-write-string.py)|Easy|1|
