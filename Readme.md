@@ -98,6 +98,7 @@ LeetCode
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](src/python/_01_easy/_551_student-attendance-record-I.py)|Easy|1|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/description/)|[Python](src/python/_01_easy/_561_array-partition-I.py)|Easy|1|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](src/python/_01_easy/_566_reshape-the-matrix.py)|Easy|1|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](src/python/_02_medium/_567_permutation-in-string.py)|Medium|1|Y|N|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|[Python](src/python/_01_easy/_575_distribute-candies.py)|Easy|1|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](src/python/_01_easy/_645_set-mismatch.py)|Easy|1|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](src/python/_02_medium/_678_valid-parenthesis-string.py)|Medium|1|Y|Y|
