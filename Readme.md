@@ -54,7 +54,7 @@ LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](src/python/_01_easy/_144_binary-tree-preorder-traversal.py)|Easy|1|YY|N|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](src/python/_02_medium/_151_reverse-words-in-a-string.py)|Medium|2|N|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](src/python/_02_medium/_153_find-minimum-in-rotated-sorted-array.py)|Medium|1|Y|N|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](src/python/_02_medium/_155_min-stack.py)|Medium|1|Y|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](src/python/_02_medium/_155_min-stack.py)|Medium|1|Y|N|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](src/python/_02_medium/_162_find-peak-element.py)|Medium|1|YY|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](src/python/_02_medium/_167_two-sum-input-array-is-sorted.py)|Medium|2|N|N|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](src/python/_01_easy/_169_majority-element.py)|Easy|2|N|

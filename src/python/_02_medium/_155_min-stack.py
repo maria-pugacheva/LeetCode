@@ -17,3 +17,12 @@ class MinStack:
 
     def getMin(self) -> int:
         return self.stack[-1][1]
+
+
+stack = MinStack()
+stack.push(3)
+stack.push(-1)
+stack.push(4)
+stack.push(2)
+stack.pop()
+print(stack.getMin() == -1)
