@@ -107,6 +107,7 @@ LeetCode
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](src/python/_01_easy/_704_binary-search.py)|Easy|1|N|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](src/python/_01_easy/_724_find-pivot-index.py)|Easy|1|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](src/python/_02_medium/_739_daily-temperatures.py)|Medium|2|YY|N|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Python](src/python/_01_easy/_744_find-smallest-letter-greater-than-target.py)|Easy|1|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|[Python](src/python/_01_easy/_747_largest-number-at-least-twice-of-others.py)|Easy|1|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](src/python/_02_medium/_763_partition-labels.py)|Medium|1|Y|N|
