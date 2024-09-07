@@ -3,28 +3,25 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Binary Search. Time: O(n). Space: O(n)                 !!
+# Approach 1: Binary Search. T: O(n + log n) -> O(n). S: O(n)        !!
 # ---------------------------------------------------------------------
-def solution(pairs: List[List[int]], newPair: List[int]) -> \
+def solution_one(pairs: List[List[int]], newPair: List[int]) -> \
         List[List[int]]:
-    """You are given an array of non-overlapping intervals pairs
-    where pairs[i] = [start-i, end-i] represent the start and the
-    end of the i-th interval, and pairs is sorted in ascending order
-    by start-i. You are also given an interval newPair = [start, end]
-    that represents the start and end of another interval. Insert
-    newPair into pairs such that pairs is still sorted in
-    ascending order by start-i and pairs still does not have any
-    overlapping intervals (merge overlapping intervals if necessary).
+    """Given a sorted array of non-overlapping intervals pairs and a new
+    interval newPair, insert the new interval into the array while
+    maintaining sorted order and merging any overlapping intervals.
+    Return the updated array of intervals. Note that you can make a new
+    array and return it.
 
     Examples:
-        >>> solution([[1, 5]], [0, 0])
-        [[0, 0], [1, 5]]
-        >>> solution([[1, 5]], [0, 3])
+        >>> solution_one([[1, 5]], [0, 3])
         [[0, 5]]
-        >>> solution([[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]], [4, 8])
-        [[1, 2], [3, 10], [12, 16]]
-        >>> solution([[1, 3], [6, 9]], [2, 5])
+        >>> solution_one([[1, 5]], [0, 0])
+        [[0, 0], [1, 5]]
+        >>> solution_one([[1, 3], [6, 9]], [2, 5])
         [[1, 5], [6, 9]]
+        >>> solution_one([[1, 2], [3, 5], [8, 10], [12, 16]], [4, 8])
+        [[1, 2], [3, 10], [12, 16]]
     """
     if not pairs:
         return [newPair]
@@ -45,6 +42,43 @@ def solution(pairs: List[List[int]], newPair: List[int]) -> \
         else:
             res.append(pairs[i])
 
+    return res
+
+
+# ---------------------------------------------------------------------
+# Approach 2: Linear. T: O(n). S: O(1)                                !
+# ---------------------------------------------------------------------
+def solution_two(pairs: List[List[int]], newPair: List[int]) -> \
+        List[List[int]]:
+    """Given a sorted array of non-overlapping intervals pairs and a new
+    interval newPair, insert the new interval into the array while
+    maintaining sorted order and merging any overlapping intervals.
+    Return the updated array of intervals. Note that you can make a new
+    array and return it.
+
+    Examples:
+        >>> solution_two([[1, 5]], [0, 3])
+        [[0, 5]]
+        >>> solution_two([[1, 5]], [0, 0])
+        [[0, 0], [1, 5]]
+        >>> solution_two([[1, 3], [6, 9]], [2, 5])
+        [[1, 5], [6, 9]]
+        >>> solution_two([[1, 2], [3, 5], [8, 10], [12, 16]], [4, 8])
+        [[1, 2], [3, 10], [12, 16]]
+    """
+    res = []
+
+    for i in range(len(pairs)):
+        if newPair[1] < pairs[i][0]:
+            res.append(newPair)
+            return res + pairs[i:]
+        elif newPair[0] > pairs[i][1]:
+            res.append(pairs[i])
+        else:
+            newPair[0] = min(newPair[0], pairs[i][0])
+            newPair[1] = max(newPair[1], pairs[i][1])
+
+    res.append(newPair)
     return res
 
 
