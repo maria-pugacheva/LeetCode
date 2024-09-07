@@ -71,6 +71,7 @@ LeetCode
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](src/python/_02_medium/_238_product-of-array-except-self.py)|Medium|1|YYY|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](src/python/_01_easy/_242_valid-anagram.py)|Easy|2|Y|N|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Python](src/python/_02_medium/_252_meeting-rooms.py)|Medium|1|N|N|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](src/python/_02_medium/_253_meeting-rooms-ii.py)|Medium|1|YY|Y|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](src/python/_01_easy/_263_ugly-number.py)|Easy|1|Y|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Python](src/python/_02_medium/_271_encode-and-decode-strings.py)|Medium|1|Y|N|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](src/python/_01_easy/_290_word-pattern.py)|Easy|2|YY|
