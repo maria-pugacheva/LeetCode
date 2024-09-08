@@ -90,6 +90,7 @@ LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[Python](src/python/_01_easy/_389_find-the-difference.py)|Easy|2|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](src/python/_01_easy/_392_is-subsequence.py)|Easy|1|N|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](src/python/_01_easy/_409_longest-palindrome.py)|Easy|1|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](src/python/_02_medium/_424_longest-repeating-character-replacement.py)|Medium|1|YY|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](src/python/_01_easy/_434_number-of-segments-in-a-string.py)|Easy|1|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](src/python/_02_medium/_435_non-overlapping-intervals.py)|Medium|1|Y|N|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](src/python/_02_medium/_452_minimum-number-of-arrows-to-burst-balloons.py)|Medium|1|Y|
