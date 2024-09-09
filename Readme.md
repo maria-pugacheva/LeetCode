@@ -126,6 +126,7 @@ LeetCode
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](src/python/_01_easy/_925_long-pressed-name.py)|Easy|1|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](src/python/_01_easy/_929_unique-email-addresses.py)|Easy|1|N|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](src/python/_01_easy/_976_largest-perimeter-triangle.py)|Easy|1|Y|
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](src/python/_02_medium/_981_time-based-key-value-store.py)|Medium|1|Y|N|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](src/python/_01_easy/_1002_find-common-characters.py)|Easy|1|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](src/python/_01_easy/_1009_complement-of-base-10-integer.py)|Easy|1|Y|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
