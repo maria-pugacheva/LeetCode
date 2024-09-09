@@ -1,5 +1,8 @@
-# Time Complexity : O(1) for all operations. Space Complexity : O(n)
 class MinStack:
+    """A class representing a stack data structure that supports
+    standard push, pop, and top operations, and also provides
+    constant-time retrieval of the minimum element.
+    """
     def __init__(self):
         self.stack = []
 
