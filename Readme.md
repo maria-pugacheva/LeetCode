@@ -132,6 +132,7 @@ LeetCode
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](src/python/_01_easy/_1009_complement-of-base-10-integer.py)|Easy|1|Y|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)|[Python](src/python/_01_easy/_1021_remove-outermost-parentheses.py)|Easy|1|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](src/python/_01_easy/_1025_divisor-game.py)|Easy|1|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](src/python/_01_easy/_1046_last-stone-weight.py)|Easy|1|Y|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](src/python/_01_easy/_1189_maximum-number-of-balloons.py)|Easy|2|Y|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](src/python/_01_easy/_1221_split-a-string-in-balanced-strings.py)|Easy|1|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](src/python/_01_easy/_1281_subtract-the-product-and-sum-of-digits-of-an-integer.py)|Easy|1|
