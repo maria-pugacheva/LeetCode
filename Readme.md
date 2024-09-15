@@ -108,6 +108,7 @@ LeetCode
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](src/python/_01_easy/_682_baseball-game.py)|Easy|1|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](src/python/_02_medium/_703_kth-largest-element-in-a-stream.py)|Medium|1|Y|N|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](src/python/_01_easy/_704_binary-search.py)|Easy|1|N|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](src/python/_02_medium/_707_design-linked-list.py)|Medium|1|YY|N|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Python](src/python/_01_easy/_709_to-lower-case.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](src/python/_01_easy/_724_find-pivot-index.py)|Easy|1|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](src/python/_02_medium/_739_daily-temperatures.py)|Medium|2|YY|N|
