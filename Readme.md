@@ -52,6 +52,7 @@ LeetCode
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](src/python/_02_medium/_130_surrounded-regions.py)|Medium|1|Y|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](src/python/_02_medium/_134_gas-station.py)|Medium|1|YY|N|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](src/python/_01_easy/_136_single-number.py)|Easy|3|N|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](src/python/_01_easy/_141_linked-list-cycle.py)|Easy|1|Y|N|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](src/python/_01_easy/_144_binary-tree-preorder-traversal.py)|Easy|1|YY|N|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](src/python/_02_medium/_150_evaluate-reverse-polish-notation.py)|Medium|1|Y|N|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](src/python/_02_medium/_151_reverse-words-in-a-string.py)|Medium|2|N|
