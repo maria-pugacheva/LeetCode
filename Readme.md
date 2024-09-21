@@ -77,6 +77,7 @@ LeetCode
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](src/python/_02_medium/_253_meeting-rooms-ii.py)|Medium|1|YY|Y|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](src/python/_01_easy/_263_ugly-number.py)|Easy|1|Y|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Python](src/python/_02_medium/_271_encode-and-decode-strings.py)|Medium|1|Y|N|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](src/python/_02_medium/_287_find-the-duplicate-number.py)|Medium|1|YY|Y|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](src/python/_01_easy/_290_word-pattern.py)|Easy|2|YY|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](src/python/_01_easy/_292_nim-game.py)|Easy|1|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](src/python/_02_medium/_299_bulls_and_cows.py)|Medium|1|Y|
