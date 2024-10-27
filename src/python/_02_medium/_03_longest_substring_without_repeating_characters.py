@@ -9,19 +9,25 @@ import doctest
 def solution_one(s: str) -> int:
     """Return the length of the longest unique substring in s.
 
-       Preconditions:
-           0 <= s.length <= 5 * 10^4
-           s consists of English letters, digits, symbols, and spaces
+    Preconditions:
+        0 <= s.length <= 5 * 10^4
+        s consists of English letters, digits, symbols, and spaces
 
-       Examples:
-           >>> solution_one('aab')
-           2
-           >>> solution_one('abba')
-           2
-           >>> solution_one('pwwkew')
-           3
-           >>> solution_one('bbbbb')
-           1
+    Examples:
+        >>> solution_one('a')
+        1
+        >>> solution_one('au')
+        2
+        >>> solution_one('aab')
+        2
+        >>> solution_one('abba')
+        2
+        >>> solution_one('bbbbb')
+        1
+        >>> solution_one('pwwkew')
+        3
+        >>> solution_one('abcabcbb')
+        3
     """
     def is_unique(left: int, right: int) -> bool:
         chars = set()
@@ -40,33 +46,41 @@ def solution_one(s: str) -> int:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Dictionary. Time: O(n)                                !**
+# Approach 2: Set. Time: O(n)                                       !**
 # ---------------------------------------------------------------------
 def solution_two(s: str) -> int:
     """Return the length of the longest unique substring in s.
 
-       Preconditions:
-           0 <= s.length <= 5 * 10^4
-           s consists of English letters, digits, symbols, and spaces
+    Preconditions:
+        0 <= s.length <= 5 * 10^4
+        s consists of English letters, digits, symbols, and spaces
 
-       Examples:
-           >>> solution_two('aab')
-           2
-           >>> solution_two('abba')
-           2
-           >>> solution_two('pwwkew')
-           3
-           >>> solution_two('bbbbb')
-           1
+    Examples:
+        >>> solution_two('a')
+        1
+        >>> solution_two('au')
+        2
+        >>> solution_two('aab')
+        2
+        >>> solution_two('abba')
+        2
+        >>> solution_two('bbbbb')
+        1
+        >>> solution_two('pwwkew')
+        3
+        >>> solution_two('abcabcbb')
+        3
     """
-    longest = i = 0
-    d = {}
+    res = 0
+    i = 0
+    charSet = set()
     for j in range(len(s)):
-        if s[j] in d:
-            i = max(i, d[s[j]] + 1)
-        longest = max(longest, j - i + 1)
-        d[s[j]] = j
-    return longest
+        while s[j] in charSet:
+            charSet.remove(s[i])
+            i += 1
+        res = max(res, j - i + 1)
+        charSet.add(s[j])
+    return res
 
 
 if __name__ == '__main__':
