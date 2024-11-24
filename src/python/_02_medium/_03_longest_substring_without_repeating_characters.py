@@ -46,7 +46,7 @@ def solution_one(s: str) -> int:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Set. Time: O(n)                                       !**
+# Approach 2: Dictionary. Time: O(n)                                !**
 # ---------------------------------------------------------------------
 def solution_two(s: str) -> int:
     """Return the length of the longest unique substring in s.
@@ -69,6 +69,43 @@ def solution_two(s: str) -> int:
         >>> solution_two('pwwkew')
         3
         >>> solution_two('abcabcbb')
+        3
+    """
+    res = 0
+    i = 0
+    chartMap = {}
+    for j in range(len(s)):
+        if s[j] in chartMap:
+            i = max(i, chartMap[s[j]] + 1)
+        res = max(res, j - i + 1)
+        chartMap[s[j]] = j
+    return res
+
+
+# ---------------------------------------------------------------------
+# Approach 3: Set. Time: O(n)                                       !**
+# ---------------------------------------------------------------------
+def solution_three(s: str) -> int:
+    """Return the length of the longest unique substring in s.
+
+    Preconditions:
+        0 <= s.length <= 5 * 10^4
+        s consists of English letters, digits, symbols, and spaces
+
+    Examples:
+        >>> solution_three('a')
+        1
+        >>> solution_three('au')
+        2
+        >>> solution_three('aab')
+        2
+        >>> solution_three('abba')
+        2
+        >>> solution_three('bbbbb')
+        1
+        >>> solution_three('pwwkew')
+        3
+        >>> solution_three('abcabcbb')
         3
     """
     res = 0
