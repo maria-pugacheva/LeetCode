@@ -27,6 +27,12 @@ def solution_two(s: str) -> int:
     length of the last word in the string.
 
     Examples:
+        >>> solution_two(' A')
+        1
+        >>> solution_two('Hi')
+        2
+        >>> solution_two(' A ')
+        1
         >>> solution_two('Hello World')
         5
         >>> solution_two('   fly me   to   the moon  ')
@@ -35,13 +41,12 @@ def solution_two(s: str) -> int:
         6
     """
     cnt = 0
-    seen_alpha = False
     for i in range(len(s) - 1, -1, -1):
-        if s[i] != ' ':
+        if s[i] == ' ':
+            if cnt > 0:
+                break
+        else:
             cnt += 1
-            seen_alpha = True
-        elif seen_alpha:
-            break
     return cnt
 
 
