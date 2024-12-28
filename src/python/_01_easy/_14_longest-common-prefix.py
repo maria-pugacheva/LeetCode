@@ -21,7 +21,7 @@ def solution(words: List[str]) -> str:
         for j in range(1, len(words)):
             if i == len(words[i]) or words[j][i] != words[0][i]:
                 return words[j][:i]
-    return '' if not words else words[0]
+    return words[0]
 
 
 if __name__ == '__main__':
