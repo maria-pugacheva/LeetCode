@@ -29,13 +29,13 @@ def solution_one(nums: List[int], val: int) -> int:
     """
     i, j = 0, len(nums) - 1
     while i <= j:
-        if nums[i] == val and nums[j] != val:
+        if nums[i] != val:
+            i += 1
+        elif nums[j] == val:
+            j -= 1
+        else:
             nums[i] = nums[j]
             i += 1
-            j -= 1
-        elif nums[i] != val:
-            i += 1
-        else:
             j -= 1
     return i
 
