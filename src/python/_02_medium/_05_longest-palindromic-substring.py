@@ -49,13 +49,12 @@ def solution_two(s: str) -> str:
             r += 1
         return r - l - 1
 
-    start = end = length = 0
+    start = end = 0
     for i in range(len(s)):
         curr_max_len = max(expand(i, i), expand(i, i+1))
-        if curr_max_len > length:
+        if curr_max_len > end - start + 1:
             start = i - ((curr_max_len - 1) // 2)
             end = i + curr_max_len // 2
-            length = curr_max_len
 
     return s[start:end+1]
 
