@@ -10,6 +10,7 @@ LeetCode
 |03|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](src/python/_02_medium/_03_longest_substring_without_repeating_characters.py)|Medium|3|Y|N|
 |05|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Python](src/python/_02_medium/_05_longest-palindromic-substring.py)|Medium|2|Y|
 |07|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Python](src/python/_02_medium/_07_reverse-integer.py)|Medium|1|Y|N|
+|08|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Python](src/python/_02_medium/_08_string-to-integer.py)|Medium|1|Y|
 |09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](src/python/_01_easy/_09_palindrome-number.py)|Easy|2|Y|N|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](src/python/_02_medium/_11_container-with-most-water.py)|Medium|2|N|N|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](src/python/_02_medium/_12_integer-to-roman.py)|Medium|1|Y|
