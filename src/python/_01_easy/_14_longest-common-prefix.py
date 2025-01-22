@@ -19,7 +19,7 @@ def solution(words: List[str]) -> str:
     """
     for i in range(len(words[0])):
         for j in range(1, len(words)):
-            if i == len(words[i]) or words[j][i] != words[0][i]:
+            if i == len(words[j]) or words[j][i] != words[0][i]:
                 return words[j][:i]
     return words[0]
 
