@@ -28,7 +28,7 @@ def solution_one(nums: List[int], val: int) -> int:
         5
     """
     i, j = 0, len(nums) - 1
-    while i <= j:
+    while i < j:
         if nums[i] != val:
             i += 1
         elif nums[j] == val:
@@ -37,7 +37,7 @@ def solution_one(nums: List[int], val: int) -> int:
             nums[i] = nums[j]
             i += 1
             j -= 1
-    return i
+    return i + 1
 
 
 # ---------------------------------------------------------------------
