@@ -64,15 +64,15 @@ def solution_two(nums: List[int], t: int) -> List[int]:
     nums_sorted = sorted(nums)
     i, j = 0, len(nums_sorted) - 1
     while i < j:
-        x, y = nums_sorted[i], nums_sorted[j]
-        if x + y > t:
+        a, b = nums_sorted[i], nums_sorted[j]
+        if a + b > t:
             j -= 1
-        elif x + y < t:
+        elif a + b < t:
             i += 1
         else:
-            if x == y:
-                return [nums.index(x), nums.index(y, nums.index(x) + 1)]
-            return [nums.index(x), nums.index(y)]
+            if a == b:
+                return [nums.index(a), nums.index(b, nums.index(a) + 1)]
+            return [nums.index(a), nums.index(b)]
     return [-1, -1]
 
 
@@ -104,11 +104,10 @@ def solution_three(nums: List[int], t: int) -> List[int]:
     """
     d = {}
     for i in range(len(nums)):
-        n = nums[i]
-        c = t - n
+        c = t - nums[i]
         if c in d:
             return [d[c], i]
-        d[n] = i
+        d[nums[i]] = i
     return [-1, -1]
 
 
