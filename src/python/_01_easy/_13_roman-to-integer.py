@@ -15,13 +15,13 @@ def solution(s: str) -> int:
         >>> solution('MCMXCIV')
         1994
     """
-    hm = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
-    n = hm[s[-1]]
+    nums = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    n = nums[s[-1]]
     for i in range(len(s) - 1):
-        if hm[s[i]] < hm[s[i + 1]]:
-            n -= hm[s[i]]
+        if nums[s[i]] < nums[s[i + 1]]:
+            n -= nums[s[i]]
         else:
-            n += hm[s[i]]
+            n += nums[s[i]]
     return n
 
 
