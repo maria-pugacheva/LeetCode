@@ -24,13 +24,15 @@ def solution_one(s: str) -> bool:
         >>> solution_one('(({[]}}}')
         False
     """
-    valid = {'{}', '()', '[]'}
+    pairs = {'}': '{', ')': '(', ']': '['}
     stack = []
-    for i in range(len(s)):
-        if not stack or stack[-1] + s[i] not in valid:
-            stack.append(s[i])
+    for ch in s:
+        if ch not in pairs:
+            stack.append(ch)
         else:
-            stack.pop()
+            top_elem = stack.pop() if stack else '#'
+            if top_elem != pairs[ch]:
+                return False
     return not stack
 
 
