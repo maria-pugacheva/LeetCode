@@ -4,22 +4,22 @@ import doctest
 # ---------------------------------------------------------------------
 # Approach 1: Two Pointers. Time: O(n + m). Space: O(1)             **!
 # ---------------------------------------------------------------------
-def solution_one(word: str, abbr: str) -> bool:
+def solution(word: str, abbr: str) -> bool:
     """Given a string word and an abbreviation abbr, return whether the
     string matches the given abbreviation. A string can be abbreviated
     by replacing any number of non-adjacent, non-empty substrings with
     their lengths. The lengths should not have leading zeros.
 
     Examples:
-        >>> solution_one('apple', 'a2e')
+        >>> solution('apple', 'a2e')
         False
-        >>> solution_one('substitution', 's55n')
+        >>> solution('substitution', 's55n')
         False
-        >>> solution_one('substitution', 's010n')
+        >>> solution('substitution', 's010n')
         False
-        >>> solution_one('substitution', 's0ubstitution')
+        >>> solution('substitution', 's0ubstitution')
         False
-        >>> solution_one('internationalization', 'i12iz4n')
+        >>> solution('internationalization', 'i12iz4n')
         True
     """
     n1, n2 = len(word), len(abbr)
