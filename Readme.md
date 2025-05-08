@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Solutions
 
-| # | Title | Solutions | Difficulty | # of S | More?|
+| # | Title | Solutions | Difficulty | # of S |?|
 |------|-------|---------------|-------------|-------------------------------|-----|
 |01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](src/python/_01_easy/_01_two-sum.py)|Easy|3|N|N|
 |02|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](src/python/_02_medium/_02_add-two-numbers.py)|Medium|1|Y|N|
