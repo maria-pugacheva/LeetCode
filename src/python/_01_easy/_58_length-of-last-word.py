@@ -16,7 +16,7 @@ def solution_one(s: str) -> int:
         >>> solution_one('luffy is still joyboy')
         6
     """
-    return len(s.strip().split()[-1])
+    return len(s.split()[-1])
 
 
 # ---------------------------------------------------------------------
