@@ -11,18 +11,20 @@ def solution(nums: List[int], t: int) -> int:
     t if it is in nums; otherwise, return -1 if it is not in nums.
 
     Examples:
+        >>> solution([1], 0)
+        -1
         >>> solution([1, 2], 1)
         0
         >>> solution([2, 1], 1)
         1
-        >>> solution([4, 5, 6, 7, 0, 1, 2], 0)
-        4
-        >>> solution([4, 5, 6, 7, 0, 1, 2], 3)
-        -1
-        >>> solution([1], 0)
-        -1
         >>> solution([3, 5, 1], 3)
         0
+        >>> solution([5, 1, 3], 3)
+        2
+        >>> solution([4, 5, 6, 7, 0, 1, 2], 1)
+        5
+        >>> solution([4, 5, 6, 7, 0, 1, 2], 3)
+        -1
     """
     i, j = 0, len(nums) - 1
     while i <= j:
