@@ -23,6 +23,7 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Python](src/python/_01_easy/_27_remove-element.py)|Easy|2|Y|N|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](src/python/_01_easy/_28_find-the-index-of-the-first-occurrence-in-a-string.py)|Easy|1|YY|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](src/python/_02_medium/_33_search-in-rotated-sorted-array.py)|Medium|1|N|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](src/python/_02_medium/_34_find-first-and-last-position-of-element-in-sorted-array.py)|Medium|1|N|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](src/python/_01_easy/_35_search-insert-position.py)|Easy|2|N|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](src/python/_02_medium/_36_valid-sudoku.py)|Medium|1|Y|Y|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](src/python/_02_medium/_45_jump-game-II.py)|Medium|1|YY|N|
