@@ -18,14 +18,12 @@ def solution(nums: List[int]) -> int:
         2
     """
     cnt = 0
-    l = r = 0
-    while r < len(nums) - 1:
-        farthest = 0
-        for i in range(l, r + 1):
-            farthest = max(farthest, i + nums[i])
-        l = r + 1
-        r = farthest
-        cnt += 1
+    far, end = 0, 0
+    for i in range(len(nums) - 1):
+        far = max(far, i + nums[i])
+        if i == end:
+            end = far
+            cnt += 1
     return cnt
 
 

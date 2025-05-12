@@ -26,7 +26,7 @@ LeetCode
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](src/python/_02_medium/_34_find-first-and-last-position-of-element-in-sorted-array.py)|Medium|1|N|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](src/python/_01_easy/_35_search-insert-position.py)|Easy|2|N|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](src/python/_02_medium/_36_valid-sudoku.py)|Medium|1|Y|Y|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](src/python/_02_medium/_45_jump-game-II.py)|Medium|1|YY|N|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](src/python/_02_medium/_45_jump-game-II.py)|Medium|1|N|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](src/python/_02_medium/_48_rotate-image.py)|Medium|1|Y|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](src/python/_02_medium/_49_group-anagrams.py)|Medium|2|Y|N|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](src/python/_02_medium/_50_pow-x-n.py)|Medium|1|Y|
