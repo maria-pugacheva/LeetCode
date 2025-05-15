@@ -18,7 +18,7 @@ def solution(nums: List[int]) -> bool:
         False
     """
     goalPost = len(nums) - 1
-    for i in range(len(nums) - 1, -1, -1):
+    for i in range(len(nums) - 2, -1, -1):
         if i + nums[i] >= goalPost:
             goalPost = i
     return goalPost == 0
