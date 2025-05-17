@@ -46,7 +46,7 @@ def solution_two(nums: List[int], t: int) -> int:
     """
     i, j = 0, len(nums) - 1
     while i <= j:
-        mid = i + (j - i) // 2
+        mid = (i + j) // 2
         if nums[mid] == t:
             return mid
         elif nums[mid] < t:
