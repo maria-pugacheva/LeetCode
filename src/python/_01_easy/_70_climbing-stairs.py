@@ -28,8 +28,6 @@ def solution_one(n: int) -> int:
         >>> solution_one(5)
         8
     """
-    if n <= 3:
-        return n
     first, second = 0, 1
     for i in range(n):
         third = first + second
@@ -38,9 +36,12 @@ def solution_one(n: int) -> int:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Fibonacci Formula. Time: O(log n)                       !
+# Approach 2: Fibonacci (Binet's) Formula. Time: O(log n)             !
 # ---------------------------------------------------------------------
-# Complexity analysis: pow method takes log n time.
+# Note: Binet's formula provides an explicit expression for calculating
+#       the nth Fibonacci number directly, without needing to calculate
+#       previous terms in the sequence.
+# Complexity Analysis: The `pow` method takes O(log n) time.
 # ---------------------------------------------------------------------
 def solution_two(n: int) -> int:
     """You are climbing a staircase. It takes n steps to reach the top.
