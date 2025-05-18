@@ -34,7 +34,7 @@ def solution(word: str, abbr: str) -> bool:
                 j += 1
             i += n
         else:
-            if i < n1 and word[i] != abbr[j]:
+            if i >= n1 or word[i] != abbr[j]:
                 return False
             i += 1
             j += 1
