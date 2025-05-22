@@ -31,16 +31,16 @@ def solution(nums: List[int]) -> int:
         >>> solution([0, 3, 7, 2, 5, 8, 4, 6, 0, 1])
         9
     """
-    longest = 0
-    s = set(nums)
-    for n in nums:
-        if n - 1 not in s:
+    res = 0
+    hSet = set(nums)
+    for n in hSet:
+        if n - 1 not in hSet:
             cnt = 1
-            while n + 1 in s:
+            while n + 1 in hSet:
                 cnt += 1
                 n += 1
-            longest = max(longest, cnt)
-    return longest
+            res = max(res, cnt)
+    return res
 
 
 if __name__ == '__main__':
