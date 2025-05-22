@@ -12,10 +12,18 @@ class LinkedList:
         node = Node(val)
         if not self.head:
             self.head = node
-            self.tail = node
         else:
             self.tail.next = node
+        self.tail = node
+
+    def addAtHead(self, val):
+        node = Node(val)
+        node.next = self.head
+        self.head = node
+        if not self.tail:
             self.tail = node
+        else:
+            self.tail = self.tail.next
 
     def traverse(self):
         lst = []
@@ -54,6 +62,11 @@ def testLinkedList():
     LL.addAtTail(4)
     LL.reverse()
     assert (LL.traverse() == [4, 1, 2])
+
+    LL.addAtHead(5)
+    assert (LL.traverse() == [5, 4, 1, 2])
+    LL.reverse()
+    assert (LL.traverse() == [2, 1, 4, 5])
 
     print("All test cases passed!")
 

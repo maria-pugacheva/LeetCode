@@ -69,7 +69,7 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](src/python/_01_easy/_202_happy-number.py)|Easy|3|Y|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](src/python/_02_medium/_204_count-primes.py)|Medium|1|Y|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](src/python/_01_easy/_205_isomorphic-strings.py)|Easy|3|YY|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](src/python/_01_easy/_206_reverse-linked-list.py)|Easy|1|Y|Y|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](src/python/_01_easy/_206_reverse-linked-list.py)|Easy|1|N|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](src/python/_02_medium/_209_minimum-size-subarray-sum.py)|Medium|2|YY|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](src/python/_01_easy/_217_contains-duplicate.py)|Easy|2|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](src/python/_01_easy/_219_contains-duplicate-ii.py)|Easy|3|Y|
