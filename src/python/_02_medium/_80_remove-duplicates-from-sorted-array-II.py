@@ -27,7 +27,7 @@ def solution_one(nums: List[int]) -> int:
         else:
             cnt = 1
         i += 1
-    return len(nums)
+    return i
 
 
 # ---------------------------------------------------------------------
