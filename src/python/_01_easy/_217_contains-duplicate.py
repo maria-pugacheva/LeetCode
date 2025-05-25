@@ -3,12 +3,7 @@ from typing import List
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Sorting. Time: O(n log n). Space: O(n).               ***
-# ---------------------------------------------------------------------
-# 1. Modify the original list by sorting it (if it's allowed).
-# 2. Iterate over the sorted list to check if there are any two
-#    consecutive duplicate elements.  If so, return True.
-# 3. Return False at the end.
+# Approach 1: Sorting. Time: O(n log n). Space: O(n)                ***
 # ---------------------------------------------------------------------
 def solution_one(nums: List[int]) -> bool:
     """Return True if nums contains any duplicates.
@@ -29,13 +24,7 @@ def solution_one(nums: List[int]) -> bool:
 
 
 # ---------------------------------------------------------------------
-# Approach 2: Set. Time: O(n). Space: O(n).                         ***
-# ---------------------------------------------------------------------
-# 1. Create an empty set to store the elements of the input list.
-# 2. Iterate through the elements of the list and check if an element
-#    exists in the set.  If so, return True; otherwise, add the element
-#    to the set.
-# 3. Return False at the end.
+# Approach 2: Set. Time: O(n). Space: O(n)                          ***
 # ---------------------------------------------------------------------
 def solution_two(nums: List[int]) -> bool:
     """Return True if nums contains any duplicates.
