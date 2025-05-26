@@ -16,15 +16,16 @@ def solution(nums: List[int]) -> List[int]:
         >>> solution([-1, 1, 0, -3, 3])
         [0, 0, 9, 0, 0]
     """
-    res = [1] * len(nums)
+    n = len(nums)
+    res = [1] * n
     prefix = 1
-    for i in range(len(nums)):
+    for i in range(n):
         res[i] = prefix
         prefix *= nums[i]
-    postfix = 1
-    for j in range(len(nums) - 1, -1, -1):
-        res[j] *= postfix
-        postfix *= nums[j]
+    suffix = 1
+    for j in range(n - 1, -1, -1):
+        res[j] *= suffix
+        suffix *= nums[j]
     return res
 
 
