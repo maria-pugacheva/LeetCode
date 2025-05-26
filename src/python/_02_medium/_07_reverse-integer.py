@@ -5,19 +5,23 @@ import doctest
 # Approach 1: Pop and Push. Time: O(log x)                          ***
 # ---------------------------------------------------------------------
 # Complexity Analysis: The number of iterations is proportional to the
-#                      number of digits.
+# number of digits.
 # ---------------------------------------------------------------------
-def solution_one(n: int) -> int:
+def solution(n: int) -> int:
     """Return x with its digits reversed.
 
     Examples:
-        >>> solution_one(123)
+        >>> solution(123)
         321
-        >>> solution_one(-123)
+        >>> solution(-123)
         -321
-        >>> solution_one(120)
+        >>> solution(120)
         21
-        >>> solution_one(1534236469)
+        >>> solution(1534236469)
+        0
+        >>> solution(2147483647)
+        0
+        >>> solution(-2147483648)
         0
     """
     intMax = 2**31 - 1
@@ -25,10 +29,10 @@ def solution_one(n: int) -> int:
     n = abs(n)
     rev = 0
     while n:
-        mod = n % 10
-        if rev > intMax // 10 or (rev == intMax // 10 and n > 7):
+        t = n % 10
+        if rev > intMax // 10:
             return 0
-        rev = rev * 10 + mod
+        rev = rev * 10 + t
         n //= 10
     return rev * sign
 
