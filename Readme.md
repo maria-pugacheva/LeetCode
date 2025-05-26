@@ -91,7 +91,7 @@ LeetCode
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[Python](src/python/_02_medium/_343_integer-break.py)|Medium|1|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](src/python/_01_easy/_344_reverse-string.py)|Easy|1|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](src/python/_01_easy/_345_reverse-vowels-of-a-string.py)|Easy|1|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](src/python/_02_medium/_347_top-k-frequent-elements.py)|Medium|2|YY|Y|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](src/python/_02_medium/_347_top-k-frequent-elements.py)|Medium|2|Y|
 |349|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](src/python/_01_easy/_350_intersection-of-two-arrays-II.py)|Easy|3|Y|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](src/python/_01_easy/_350_intersection-of-two-arrays-II.py)|Easy|2|Y|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](src/python/_01_easy/_374_guess-number-higher-or-lower.py)|Easy|2|Y|
