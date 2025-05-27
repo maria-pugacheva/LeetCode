@@ -4,34 +4,69 @@ import math
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Binary Search. Time: O(n log m)                       !**
+# Approach 1: Brute Force. Time: O(n * m)                             ^
 # ---------------------------------------------------------------------
 # Complexity Analysis: Let n be the length of the input array piles and
 # m be the maximum number of bananas in a single pile from piles.
 # ---------------------------------------------------------------------
-def solution(piles: List[int], h: int) -> int:
+def solution_one(piles: List[int], h: int) -> int:
     """Return the minimum integer k such that Koko can eat all the
     bananas within h hours.
 
     Examples:
-        >>> solution([3, 6, 7, 11], 8)
+        >>> solution_one([3, 6, 7, 11], 8)
         4
-        >>> solution([30, 11, 23, 4, 20], 5)
+        >>> solution_one([30, 11, 23, 4, 20], 5)
         30
-        >>> solution([30, 11, 23, 4, 20], 6)
+        >>> solution_one([30, 11, 23, 4, 20], 6)
         23
+        >>> solution_one([312884470], 312884469)
+        2
+    """
+    speed = 1
+    while True:
+        t = 0
+        for p in piles:
+            t += math.ceil(p / speed)
+        if t <= h:
+            return speed
+        else:
+            speed += 1
+
+
+# ---------------------------------------------------------------------
+# Approach 2: Binary Search. Time: O(n log m)                       !**
+# ---------------------------------------------------------------------
+# Complexity Analysis: Let n be the length of the input array piles and
+# m be the maximum number of bananas in a single pile from piles.
+# ---------------------------------------------------------------------
+def solution_two(piles: List[int], h: int) -> int:
+    """Return the minimum integer k such that Koko can eat all the
+    bananas within h hours.
+
+    Examples:
+        >>> solution_two([3, 6, 7, 11], 8)
+        4
+        >>> solution_two([30, 11, 23, 4, 20], 5)
+        30
+        >>> solution_two([30, 11, 23, 4, 20], 6)
+        23
+        >>> solution_two([312884470], 312884469)
+        2
     """
     i, j = 1, max(piles)
-    while i < j:
+    res = j
+    while i <= j:
         k = (i + j) // 2
-        hours = 0
+        t = 0
         for p in piles:
-            hours += math.ceil(p / k)
-        if hours <= h:
-            j = k
+            t += math.ceil(p / k)
+        if t <= h:
+            res = k
+            j = k - 1
         else:
             i = k + 1
-    return j
+    return res
 
 
 if __name__ == '__main__':
