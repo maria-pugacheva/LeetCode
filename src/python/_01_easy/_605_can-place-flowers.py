@@ -21,11 +21,11 @@ def solution(fBed: List[int], n: int) -> bool:
         >>> solution([0, 0, 0, 0, 0, 1, 0, 0], 0)
         True
     """
-    cnt = 0
-    for i in range(len(fBed)):
+    cnt, length = 0, len(fBed)
+    for i in range(length):
         if fBed[i] == 0:
             if (i == 0 or fBed[i - 1] == 0) and \
-                    (i == len(fBed) - 1 or fBed[i + 1] == 0):
+                    i == length - 1 or fBed[i + 1] == 0:
                 fBed[i] = 1
                 cnt += 1
         if cnt >= n:
