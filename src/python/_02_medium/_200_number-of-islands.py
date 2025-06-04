@@ -1,12 +1,12 @@
 import doctest
 from typing import List
+import copy
 
 
 # ---------------------------------------------------------------------
-# Approach 1: Depth First Search. Time: O(m * n)                    !**
+# Approach 1: DFS. Time: O(m * n). Space: O(m * n) in worst case    !**
 # ---------------------------------------------------------------------
 class Solution:
-
     def countIslands(self, grid: List[List[str]]) -> int:
         """Given an m x n 2D binary grid grid which represents a map of
         '1's (land) and '0's (water), return the number of islands.
@@ -28,22 +28,22 @@ class Solution:
             3
         """
         cnt = 0
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == '1':
-                    self.dfs(grid, i, j)
+        gridCopy = copy.deepcopy(grid)
+        for row in range(len(gridCopy)):
+            for col in range(len(gridCopy[0])):
+                if gridCopy[row][col] == '1':
+                    self.markIslands(gridCopy, row, col)
                     cnt += 1
         return cnt
 
-    def dfs(self, grid, i, j):
-        if i < 0 or j < 0 or i >= len(grid) or j >= len(grid[0]) or \
-                grid[i][j] != '1':
+    def markIslands(self, g: List[List[str]], i: int, j: int):
+        if i < 0 or j < 0 or i == len(g) or j == len(g[0]) or g[i][j] != '1':
             return
-        grid[i][j] = '*'
-        self.dfs(grid, i + 1, j)
-        self.dfs(grid, i - 1, j)
-        self.dfs(grid, i, j + 1)
-        self.dfs(grid, i, j - 1)
+        g[i][j] = 'x'
+        self.markIslands(g, i + 1, j)
+        self.markIslands(g, i - 1, j)
+        self.markIslands(g, i, j + 1)
+        self.markIslands(g, i, j - 1)
 
 
 if __name__ == '__main__':
