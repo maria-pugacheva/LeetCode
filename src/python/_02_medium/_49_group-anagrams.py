@@ -25,10 +25,10 @@ def solution_one(words: List[str]) -> List[List[str]]:
     """
     groups = {}
     for s in words:
-        t = ''.join(sorted(s))
-        if t not in groups:
-            groups[t] = []
-        groups[t].append(s)
+        key = ''.join(sorted(s))
+        if key not in groups:
+            groups[key] = []
+        groups[key].append(s)
     return list(groups.values())
 
 
@@ -58,10 +58,10 @@ def solution_two(words: List[str]) -> List[List[str]]:
         cnt = [0] * 26
         for ch in s:
             cnt[ord(ch) - 97] += 1
-        t = tuple(cnt)
-        if t not in groups:
-            groups[t] = []
-        groups[t].append(s)
+        key = tuple(cnt)
+        if key not in groups:
+            groups[key] = []
+        groups[key].append(s)
     return list(groups.values())
 
 
