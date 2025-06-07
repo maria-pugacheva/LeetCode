@@ -28,20 +28,21 @@ class Solution:
 
     def addTwoNumbers(self, ll1, ll2) -> LinkedList:
         ll = LinkedList()
-        carry = 0
+        c = 0
         l1 = ll1.head
         l2 = ll2.head
-        while l1 or l2 or carry:
-            n = carry
+        while l1 or l2 or c:
+            n = c
             if l1:
                 n += l1.val
                 l1 = l1.next
             if l2:
                 n += l2.val
                 l2 = l2.next
-            carry = n // 10
-            n %= 10
-            ll.addAtTail(n)
+            c = n // 10
+            ll.addAtTail(n % 10)
+        if c:
+            ll.addAtTail(c)
         return ll
 
 
