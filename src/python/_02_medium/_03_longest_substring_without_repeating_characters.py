@@ -64,6 +64,8 @@ def solution_two(s: str) -> int:
         2
         >>> solution_two('abba')
         2
+        >>> solution_two('dvdf')
+        3
         >>> solution_two('bbbbb')
         1
         >>> solution_two('pwwkew')
@@ -72,13 +74,13 @@ def solution_two(s: str) -> int:
         3
     """
     res = 0
-    i = 0
+    start = 0
     chartMap = {}
-    for j in range(len(s)):
-        if s[j] in chartMap:
-            i = max(i, chartMap[s[j]] + 1)
-        res = max(res, j - i + 1)
-        chartMap[s[j]] = j
+    for i in range(len(s)):
+        if s[i] in chartMap:
+            start = max(start, chartMap[s[i]] + 1)
+        res = max(res, i - start + 1)
+        chartMap[s[i]] = i
     return res
 
 
@@ -109,14 +111,14 @@ def solution_three(s: str) -> int:
         3
     """
     res = 0
-    i = 0
+    start = 0
     charSet = set()
-    for j in range(len(s)):
-        while s[j] in charSet:
-            charSet.remove(s[i])
-            i += 1
-        res = max(res, j - i + 1)
-        charSet.add(s[j])
+    for i in range(len(s)):
+        while s[i] in charSet:
+            charSet.remove(s[start])
+            start += 1
+        res = max(res, i - start + 1)
+        charSet.add(s[i])
     return res
 
 
