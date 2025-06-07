@@ -23,12 +23,13 @@ def solution_one(s: str) -> str:
             r -= 1
         return True
 
-    longest = ''
+    start, end = 0, 0
     for i in range(len(s)):
         for j in range(i, len(s)):
-            if is_palindrome(i, j) and len(longest) < j - i + 1:
-                longest = s[i:j + 1]
-    return longest
+            if is_palindrome(i, j) and end - start < j - i:
+                start = i
+                end = j
+    return s[start:end+1]
 
 
 # ---------------------------------------------------------------------
@@ -49,11 +50,11 @@ def solution_two(s: str) -> str:
             r += 1
         return r - l - 1
 
-    start = end = 0
+    start, end = 0, 0
     for i in range(len(s)):
-        curr_max_len = max(expand(i, i), expand(i, i+1))
+        curr_max_len = max(expand(i, i), expand(i, i + 1))
         if curr_max_len > end - start + 1:
-            start = i - ((curr_max_len - 1) // 2)
+            start = i - ((curr_max_len - 1) // 2)  # to handle 'abba'
             end = i + curr_max_len // 2
 
     return s[start:end+1]
